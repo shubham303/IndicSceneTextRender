@@ -41,7 +41,7 @@ with open(sys.argv[2]) as f:
 print('number of unique fonts being considered= ', len(fontsList))
 #a set of images , whose random crops can be used as background for the rendered word images. We used Validation set of Places dataset for this
 # replace the below path with your location of images
-PlacesImList=glob.glob("/home/shubham/Documents/MTP/datasets/inaturalist_12K/images/*.jpg")
+PlacesImList=glob.glob(sys.argv[6])
 
 writeDirParent=sys.argv[3]+sys.argv[5]+'/'
 xmlFileName=sys.argv[3]+sys.argv[4]+'_DetailedAnnotation.csv'
@@ -208,7 +208,7 @@ for i in range(0,numWords):
         w=imWidth
         h=imHeight
         fgImageCrop=fgImage.crop((x ,y ,x+w, y+h))
-        fgImageCropName="temp_images/"+str(i) + '_naturalImage.png'
+        fgImageCropName=str(i) + '_naturalImage.png'
         fgImageCrop.save(fgImageCropName)
         fgBlendBoolean=0
         bgNaturalImage=0
