@@ -77,9 +77,9 @@ print('number of words in the vocab= ', numWords)
 
 #writeDir=writeDirParent+'0\/'
 for i in range(0,numWords):
-    if i%100==0:
+    if i%1000==0:
         print ('completed ', i)
-        thousand=i/100
+        thousand=i/1000
         writeDir=writeDirParent+str(thousand)+'/'
         #print writeDir
         if not os.path.exists(writeDir):
