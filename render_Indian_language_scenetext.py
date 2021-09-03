@@ -83,8 +83,10 @@ print('number of words in the vocab= ', numWords)
 
 #writeDir=writeDirParent+'0\/'
 for i in range(0,numWords):
+
     if words[i] in alreadyRenderedWords:
         continue
+
     if i%1000==0:
         print ('completed ', i)
         thousand=i/1000
