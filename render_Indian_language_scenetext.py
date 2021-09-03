@@ -46,7 +46,14 @@ PlacesImList=glob.glob(sys.argv[6])
 writeDirParent=sys.argv[3]+sys.argv[5]+'/'
 xmlFileName=sys.argv[3]+sys.argv[4]+'_DetailedAnnotation.csv'
 
-
+import csv
+from sortedcontainers import SortedList
+alreadyRenderedWords=[]
+with open("/home/shubham/Desktop/Tamil_DetailedAnnotation.csv", newline='') as f:
+    lines = f.readlines()
+    data = [ line.split(", ") for line in lines]
+    data = [ d[1] for d in data if d[0][0: d[0].find("/")] == sys.argv[5]]
+    alreadyRenderedWords= SortedList(data)
 #a flist of words separated by newline
 vocabFile = codecs.open(sys.argv[1],'r',encoding='utf8')
 myfile = codecs.open(xmlFileName,'a',encoding='utf8')
@@ -71,12 +78,13 @@ shadowOpacityOptions={'100','100','100','100','90','80','70'}
 shadowWidthSignOptions={'+','-'}
 #outputfile = open('render_commands_'+language+'_'+process+'_'+iteration+'.sh','w')
 #gtfile = open('ocr_gt.txt','w')
-
 numWords=len(words)
 print('number of words in the vocab= ', numWords)
 
 #writeDir=writeDirParent+'0\/'
 for i in range(0,numWords):
+    if words[i] in alreadyRenderedWords:
+        continue
     if i%1000==0:
         print ('completed ', i)
         thousand=i/1000
