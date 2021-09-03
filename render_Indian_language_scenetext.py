@@ -49,7 +49,7 @@ xmlFileName=sys.argv[3]+sys.argv[4]+'_DetailedAnnotation.csv'
 import csv
 from sortedcontainers import SortedList
 alreadyRenderedWords=[]
-with open("/home/shubham/Desktop/Tamil_DetailedAnnotation.csv", newline='') as f:
+with open(xmlFileName, newline='') as f:
     lines = f.readlines()
     data = [ line.split(", ") for line in lines]
     data = [ d[1] for d in data if d[0][0: d[0].find("/")] == sys.argv[5]]
