@@ -50,25 +50,15 @@ writeDirParent = sys.argv[3] + sys.argv[5] + '/'
 xmlFileName = sys.argv[3] + sys.argv[4] + '_DetailedAnnotation.csv'
 
 from sortedcontainers import SortedList
-start=0
-alreadyRenderedWords = []
-if os.path.exists(xmlFileName):
-	with open(xmlFileName, newline='') as f:
-		lines = f.readlines()
-		data = [line.split(", ") for line in lines]
-		data = [d[1] for d in data if d[0][0: d[0].find("/")] == sys.argv[5]]
-		x=lines[-1].split(", ")[2]
-		start =int(x)
-		alreadyRenderedWords = SortedList(data)
-alreadyRenderedWords = set(alreadyRenderedWords)
 # a flist of words separated by newline
 vocabFile = codecs.open(sys.argv[1], 'r', encoding='utf8')
 myfile = codecs.open(xmlFileName, 'a', encoding='utf8')
 words = vocabFile.read().split()
 words = set(words)
 
-words = words - alreadyRenderedWords
+#words = words - alreadyRenderedWords
 words = list(words)
+random.shuffle(words)
 distortArcOptions = {'40', '60', '70', '80', '40', '40', '30'}
 # skewOptions={'1','2','3','4','5','-1','-2','-3','-4','-5'}
 distorArcBooleanOptions = {0, 0, 0, 0, 0, 0, 0, 0, 1}
@@ -77,7 +67,7 @@ densityOptions = {'100', '150', '150', '150', '200', '200', '200', '250', '250',
                   '300', '300', '300', '250', '250'}
 boldBooleanOptions = {0, 0, 1}
 italicBooleanOptions = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1}
-fontSizeOptions = { '32', '34', '36','44', '46', '56', '58', '66', '72'}
+fontSizeOptions = {'24', '28','32', '34', '36','44', '46', '56', '58', '66', '72', '76', '80', '100' , '120', '140', '160', '200', '250', '300', '350', '400'}
 trimOptions = {0, 1}
 fontStretchOptions={ 'semicondensed', 'normal', 'semiexpanded',  'normal', 'normal', 'normal','normal','normal','normal', 'normal','normal','normal','semicondensed','semicondensed','semicondensed','semicondensed','semicondensed', 'semiexpanded', 'semiexpanded', 'semiexpanded', 'semiexpanded','normal', 'normal', 'normal','normal','normal','normal', 'normal','normal','normal'}
 shadowBooleanOptions={0,0,0,0,0,0,0,0,0}
@@ -90,18 +80,25 @@ shadowWidthSignOptions = {'+', '-'}
 # outputfile = open('render_commands_'+language+'_'+process+'_'+iteration+'.sh','w')
 # gtfile = open('ocr_gt.txt','w')
 numWords = len(words)
+words.sort()
 print('number of words in the vocab= ', numWords)
-thousand = int(start / 1000)
-writeDir=writeDirParent+ str(int(start/1000)) +"/"
-for i in range(start, numWords):
-	if i % 1000 == 0:
+thousand = int(0 / 100)
+meta_file= open("meta.txt","r+")
+s= meta_file.readline()
+if s=="":
+	resume_word_index=0
+else:
+	resume_word_index= int(s)
+writeDir=writeDirParent+ str(int(resume_word_index/100)) +"/"
+for i in range(resume_word_index, numWords):
+	if i % 100 == 0:
 		print('completed ', i)
-		thousand = int(i / 1000)
+		thousand = int(i / 100)
 		writeDir = writeDirParent + str(thousand) + '/'
 		# print writeDir
 		if not os.path.exists(writeDir):
 			os.makedirs(writeDir)
-		filelist = glob.glob("*.png")  # remove all temp png files after every 1000 words
+		filelist = glob.glob("*.png")  # remove all temp png files after every 100 words
 		for f in filelist:
 			os.remove(f)
 	textImageName = str(i) + '_text.png'
@@ -151,7 +148,10 @@ for i in range(start, numWords):
 	command += ' pango:\'   <span '
 	command += 'font_stretch=' + '\"' + fontStretch + '\" '
 	command += 'foreground=' + '\"' + fg_hex + '\" '
+	
 	textWord = words[i]
+	textWord= textWord.replace("..", "")
+	
 	if italicBoolean == 1:
 		textWord = '<i>' + textWord + '</i>'
 	if boldBoolean == 1:
@@ -190,6 +190,7 @@ for i in range(start, numWords):
 	command += ' -resize x32 '
 	command += textImageName
 	
+	
 	# print '*******'
 	# print command.encode('utf-8')
 	
@@ -211,7 +212,7 @@ for i in range(start, numWords):
 		# 1. blend the fg with a natural image and keep the bg a uniform color itself				#
 		# 2. keep fg color uniform and overlay it on a natural image ( ie the bg is a crop from a natural image)	#
 		#################################################################################################################
-		fgorBgBooleanOptions = {0}  # 0 means text should be blended 1 means bg is just a natural image crop
+		fgorBgBooleanOptions = {0,1}  # 0 means text should be blended 1 means bg is just a natural image crop
 		fgOrBgBoolean = random.sample(fgorBgBooleanOptions, 1)[0]
 		# pick a random image from places dataset and get a crop from it, of the same size as our textImage
 		naturalImageName = random.sample(PlacesImList, 1)[0]
@@ -284,7 +285,10 @@ for i in range(start, numWords):
 		myfile.write(str(perspectiveBoolean) + ', ')
 		myfile.write(str(fgBlendBoolean) + ', ')
 		myfile.write(str(bgNaturalImage) + ',\n')
-	
+		meta_file.seek(0)
+		meta_file.write(str(i))
+		
 	else:
 		print("error", return_code)
 myfile.close()
+meta_file.close()
