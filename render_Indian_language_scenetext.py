@@ -83,7 +83,10 @@ numWords = len(words)
 words.sort()
 print('number of words in the vocab= ', numWords)
 thousand = int(0 / 100)
-meta_file= open("meta.txt","r+")
+
+#meta data file stores the index of last rendered word.
+meta_file= sys.argv[3] + sys.argv[4] +"meta.txt"
+meta_file= open(meta_file,"r+")
 s= meta_file.readline()
 if s=="":
 	resume_word_index=0
