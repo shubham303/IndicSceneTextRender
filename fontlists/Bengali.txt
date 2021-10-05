@@ -1,0 +1,221 @@
+NotoSerifBengali_Condensed SemiBold
+NotoSansBengali_ExtraCondensed Bold
+NotoSansBengali_Condensed Light
+muktinarrow
+Bangla
+NotoSerifBengali_Condensed Thin
+NotoSerifBengali VariableFont_wdth,wght
+NotoSerifBengali_Condensed Black
+NotoSansBengali_ExtraCondensed SemiBold
+NotoSansBengali_SemiCondensed ExtraBold
+Punarbhaba_Bold 04 09 2012
+Buriganga
+NotoSerifBengali VariableFont_wdth,wght
+SolaimanLipi_20 04 07
+NotoSansBengali_ExtraCondensed Thin
+NotoSansBengali_ExtraCondensed ExtraBold
+LalSabuj_Bold 04 09 2012
+lohit_as
+NotoSerifBengali_Condensed Light
+NotoSerifBengali Regular
+NotoSansBengali VariableFont_wdth,wght
+NotoSerifBengali VariableFont_wdth,wght
+ASOTSatyajit N_Ship
+HindSiliguri Bold
+NotoSansBengali VariableFont_wdth,wght
+NotoSansBengali VariableFont_wdth,wght
+Sumit_03 09 2005
+Mukti_1.99_PR
+BalooDa2 Medium
+akaashnormal
+NotoSansBengali VariableFont_wdth,wght
+NotoSansBengali VariableFont_wdth,wght
+NotoSerifBengali VariableFont_wdth,wght
+NotoSerifBengali VariableFont_wdth,wght
+NotoSerifBengali VariableFont_wdth,wght
+Bangla Kolom
+NotoSerifBengali Thin
+NotoSerifBengali VariableFont_wdth,wght
+NotoSansBengali_ExtraCondensed Black
+sagarnormal
+NotoSerifBengali_SemiCondensed ExtraLight
+GIST ASOTSatyajit
+NotoSansBengali Bold
+Azad_27 02 2006
+BNOTArbindoN_Ship.TTF: GIST\ BNOTArbindoSM:style=Normal
+BalooDa2 Bold
+NotoSansBengali_Condensed ExtraBold
+NotoSerifBengali VariableFont_wdth,wght
+lohit_bn
+LalSabuj Normal_Bold 04 09 2012
+NotoSerifBengali ExtraBold
+NotoSansBengali_SemiCondensed Regular
+GIST MNI BNOTAbhijit_N_Ship.TTF: GIST\ MNI\ BNOTAbhijit:style=Normal
+Atma Regular
+NotoSerifBengali_ExtraCondensed Light
+JamrulNormal
+Lohit Bengali
+NotoSansBengali ExtraLight
+Mina Regular
+NotoSerifBengali VariableFont_wdth,wght
+AmarBangla
+NikoshBAN
+Durga_Bold 04 09 2012
+NotoSansBengali_ExtraCondensed Light
+NotoSansBengali ExtraBold
+NotoSerifBengali_ExtraCondensed Black
+NotoSerifBengali_Condensed Bold
+Amar_Desh_31 08 2012
+NotoSansBengali VariableFont_wdth,wght
+Atma SemiBold
+NotoSansBengali VariableFont_wdth,wght
+NotoSerifBengali_SemiCondensed SemiBold
+NotoSerifBengali VariableFont_wdth,wght
+BORAKOMJ
+NotoSerifBengali_Condensed Medium
+ani
+NikoshGrameen
+GIST MNI BNOTArbindo
+NotoSansBengali Medium
+NotoSerifBengali_ExtraCondensed SemiBold
+NotoSerifBengali_SemiCondensed Regular
+MuktiNarrow
+NotoSerifBengali VariableFont_wdth,wght
+NotoSerifBengali_ExtraCondensed Regular
+Siyamrupali
+Lal_Salu_Bold_31 08 2012
+SakalBharati Normal_Ship
+NotoSerifBengali_ExtraCondensed ExtraBold
+NotoSerifBengali VariableFont_wdth,wght
+Atma Light
+NotoSerifBengali Light
+NotoSansBengali Black
+NotoSerifBengali VariableFont_wdth,wght
+NotoSerifBengali VariableFont_wdth,wght
+HindSiliguri Light
+NotoSansBengali Thin
+NotoSansBengali_SemiCondensed SemiBold
+HindSiliguri Medium
+NotoSerifBengali VariableFont_wdth,wght
+Mina Bold
+NotoSerifBengali VariableFont_wdth,wght
+NotoSansBengali_SemiCondensed Thin
+Nikosh
+NotoSerifBengali VariableFont_wdth,wght
+AmarBanglaBold
+NotoSerifBengali_Condensed Regular
+NotoSerifBengali VariableFont_wdth,wght
+BenSenHandwriting
+MuktiNarrowBold
+Sumon_Normal_31 08 2012
+NotoSerifBengali VariableFont_wdth,wght
+NotoSerifBengali VariableFont_wdth,wght
+NikoshLight
+vrindab
+Galada Regular
+NotoSansBengali VariableFont_wdth,wght
+NotoSansBengali_ExtraCondensed Medium
+NotoSerifBengali VariableFont_wdth,wght
+NotoSansBengali_Condensed Thin
+AdorshoLipi
+SolaimanLipi_Bold_10 03 12
+Ekushey_Ananta_12 02 2013
+NotoSansBengali_Condensed Bold
+16_December_31 08 2012
+Ekushey_Kolom_Bold_31 08 2012
+Mohua_07 09 05
+NotoSerifBengali Black
+NotoSerifBengali VariableFont_wdth,wght
+Saraswatii_03 09 2005
+NotoSerifBengali VariableFont_wdth,wght
+NotoSansBengali VariableFont_wdth,wght
+NotoSerifBengali VariableFont_wdth,wght
+NotoSansBengali Light
+Mukto
+NotoSerifBengali VariableFont_wdth,wght
+Lohit_14 04 2007
+NotoSansBengali_SemiCondensed Medium
+NotoSansBengali_Condensed Medium
+BHAGO___
+NotoSerifBengali_SemiCondensed Bold
+NotoSerifBengali VariableFont_wdth,wght
+NotoSansBengali_SemiCondensed Light
+AdorshoLipi_20 07 2007
+NotoSansBengali Regular
+BalooDa Regular
+HindSiliguri Regular
+HindSiliguri SemiBold
+Sharifa_03 09 2005
+LikhanNormal
+Puja 17 06 2006
+NotoSansBengali VariableFont_wdth,wght
+Buriganga_31 08 2012
+NotoSansBengali_Condensed ExtraLight
+NotoSerifBengali VariableFont_wdth,wght
+NotoSansBengali_SemiCondensed Bold
+Atma Medium
+SakalBharati Normal
+NotoSansBengali VariableFont_wdth,wght
+NotoSansBengali_Condensed Regular
+NotoSerifBengali_ExtraCondensed Thin
+NotoSerifBengali VariableFont_wdth,wght
+NotoSansBengali_SemiCondensed Black
+Shimanto_31 08 2012
+NotoSerifBengali_SemiCondensed Light
+BalooDa2 Regular
+Atma Bold
+GIST MNI BNOTArbindo_N_Ship
+NotoSansBengali_ExtraCondensed Regular
+NotoSerifBengali VariableFont_wdth,wght
+NotoSerifBengali_Condensed ExtraBold
+NotoSansBengali VariableFont_wdth,wght
+Mukto_Bold 04 09 2012
+NotoSansBengali VariableFont_wdth,wght
+Bangla_Kolom_Bold 04 09 2012
+NotoSerifBengali VariableFont_wdth,wght
+BURISO__
+NotoSerifBengali_Condensed ExtraLight
+NotoSerifBengali_SemiCondensed Thin
+NotoSerifBengali VariableFont_wdth,wght
+NotoSerifBengali SemiBold
+NotoSansBengali_Condensed Black
+NotoSerifBengali_SemiCondensed Medium
+NotoSerifBengali VariableFont_wdth,wght
+NotoSansBengali_SemiCondensed ExtraLight
+Ghorautra_Bold_31 08 2012
+ASOTArbindo N_Ship
+NotoSerifBengali_SemiCondensed ExtraBold
+BenSen
+NotoSansBengali SemiBold
+NikoshLightBan
+Ekushey_Bangla_Bold 04 09 2012
+NotoSerifBengali_ExtraCondensed ExtraLight
+GIST BNOTSatyajitSM
+Godhuli_03 09 2005
+NotoSerifBengali VariableFont_wdth,wght
+mitra
+Sornaly_Normal_31 08 2012
+Rupali 29 Sep 2012
+BNOTSatyajitSM_N_Ship
+AponaLohit
+NotoSerifBengali Medium
+Punarbhaba_27 02 2006
+NotoSerifBengali_SemiCondensed Black
+NotoSerifBengali_ExtraCondensed Bold
+NotoSansBengali_Condensed SemiBold
+NotoSerifBengali VariableFont_wdth,wght
+BalooDa2 ExtraBold
+Amar_Bangla_Bold_31 08 2012
+BalooDa2 SemiBold
+NotoSerifBengali Bold
+NotoSerifBengali VariableFont_wdth,wght
+NotoSansBengali_ExtraCondensed ExtraLight
+Nirmala
+Ekushey Sumon
+NotoSerifBengali_ExtraCondensed Medium
+NotoSerifBengali ExtraLight
+NotoSerifBengali VariableFont_wdth,wght
+DHAKO___
+Lohit Assamese
+kalpurush
+NotoSerifBengali VariableFont_wdth,wght

@@ -67,7 +67,7 @@ densityOptions = {'100', '150', '150', '150', '200', '200', '200', '250', '250',
                   '300', '300', '300', '250', '250'}
 boldBooleanOptions = {0, 0, 1}
 italicBooleanOptions = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1}
-fontSizeOptions = {'24', '28','32', '34', '36','44', '46', '56', '58', '66', '72', '76', '80', '100' , '120', '140', '160', '200', '250', '300', '350', '400'}
+fontSizeOptions = {'12', '24', '28','32', '34', '36','44', '46', '56', '58', '66', '72', '76', '80', '100' , '120'}
 trimOptions = {0, 1}
 fontStretchOptions={ 'semicondensed', 'normal', 'semiexpanded',  'normal', 'normal', 'normal','normal','normal','normal', 'normal','normal','normal','semicondensed','semicondensed','semicondensed','semicondensed','semicondensed', 'semiexpanded', 'semiexpanded', 'semiexpanded', 'semiexpanded','normal', 'normal', 'normal','normal','normal','normal', 'normal','normal','normal'}
 shadowBooleanOptions={0,0,0,0,0,0,0,0,0}
@@ -171,7 +171,7 @@ for i in range(resume_word_index, numWords):
 	command += fontString
 	# command+=' rendered_image.jpeg'
 	trimBoolean = random.sample(trimOptions, 1)[0]
-	# command+=' -trim ' #do trim in all cases
+	command+=' -trim +repage -bordercolor None -border 3' #do trim in all cases
 	command += ' png:-|'
 	
 	#### add shadow/border ######
@@ -193,10 +193,10 @@ for i in range(resume_word_index, numWords):
 		command += '\'' + str(sx) + ', ' + str(ry) + ', 1.0\t' + str(rx) + ', ' + str(sy) + ', 1.0\t' + str(
 			px) + ', ' + str(py) + '\'  png:-| '
 	command += ' convert - '
-	if trimBoolean == 1:
-		command += '  -trim '
+	#if trimBoolean == 1:
+	#	command += '  -trim'
 	# command+=' png:-|'
-	command += ' -resize x32 '
+	#command += ' -resize x32 '
 	command += textImageName
 	
 	

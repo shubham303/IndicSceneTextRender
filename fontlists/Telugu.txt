@@ -1,0 +1,217 @@
+NotoSansTelugu VariableFont_wdth,wght
+Suranna Regular
+NotoSansTelugu_SemiCondensed Light
+NotoSerifTelugu VariableFont_wght
+TLOTAmrutaBI_Ship
+NotoSansTelugu VariableFont_wdth,wght
+NotoSansTelugu_Condensed SemiBold
+TLOTRajaniB_Ship
+HindGuntur SemiBold
+TLOTAmmaI_ship
+Peddana Regular
+TLOTSwamiB
+TLOTDevaN_Ship
+TLOTGolkondaB_Ship
+NotoSansTelugu VariableFont_wdth,wght
+NotoSansTeluguUI Regular
+Gurajada
+NotoSansTelugu VariableFont_wdth,wght
+NotoSansTelugu VariableFont_wdth,wght
+NotoSansTelugu_ExtraCondensed ExtraBold
+NotoSansTelugu VariableFont_wdth,wght
+Chathura Regular
+Ramabhadra
+Ramaraja Regular
+NotoSansTelugu VariableFont_wdth,wght
+NotoSerifTelugu VariableFont_wght
+RaviPrakash Regular
+TLOTVennelaB_Ship
+TLOTVennelaI_Ship
+Chathura Bold
+NotoSansTelugu VariableFont_wdth,wght
+TLOTMenakaB_Ship
+NotoSansTelugu Medium
+NotoSansTelugu VariableFont_wdth,wght
+TLOTAmmaB_ship
+HindGuntur Regular
+HindGuntur Light
+NotoSansTelugu_Condensed Black
+NotoSerifTelugu VariableFont_wght
+TLOTAtreyaBI_Ship
+TLOTVennelaBI_Ship
+LakkiReddy
+TLOTSwamiB_Ship
+NotoSerifTelugu Medium
+TLOTPavaniB_Ship
+HindGuntur Medium
+NotoSansTelugu_ExtraCondensed Thin
+NotoSerifTelugu Light
+Mandali Regular
+NotoSerifTelugu VariableFont_wght
+BalooTammudu2 SemiBold
+GIST TLOTKrishna
+Ramabhadra1
+Suravara_Swarna_bold
+TLOTRajaniBI_Ship
+TLOTSanjanaB_Ship
+NotoSansTelugu VariableFont_wdth,wght
+SakalBharati Normal
+HindGuntur Bold
+Dhurjati
+NotoSansTelugu ExtraBold
+NotoSansTelugu_Condensed Medium
+TLOTAtreyaI_Ship
+TLOTManuB_Ship
+NotoSerifTelugu VariableFont_wght
+TLOTMenakaI_Ship
+NotoSerifTelugu VariableFont_wght
+NotoSansTelugu VariableFont_wdth,wght
+TLOTMenakaN_Ship
+NotoSansTelugu Bold
+TLOTPriyaBI_Ship
+NotoSansTelugu VariableFont_wdth,wght
+TenaliRamakrishna Regular
+TLOTKrishnaB_Ship
+NotoSansTelugu_Condensed Light
+NotoSansTelugu VariableFont_wdth,wght
+NotoSerifTelugu VariableFont_wght
+NotoSansTelugu_Condensed ExtraLight
+NotoSansTelugu_Condensed Regular
+Mallanna
+NotoSansTelugu VariableFont_wdth,wght
+Nirmala
+Timmana Regular
+RaviPrakash
+NotoSansTelugu VariableFont_wdth,wght
+NotoSansTelugu VariableFont_wdth,wght
+NotoSansTelugu_Condensed Thin
+TLOTSitaraB_Ship
+Akshar Unicode
+NotoSerifTelugu VariableFont_wght
+NotoSansTelugu_ExtraCondensed Medium
+Vani
+Pothana2000
+Subhadra
+NotoSansTelugu_ExtraCondensed Regular
+NotoSerifTelugu Black
+Vajram
+Chathura Thin
+NATS
+Sree Krushnadevaraya
+NotoSansTelugu VariableFont_wdth,wght
+NotoSansTelugu VariableFont_wdth,wght
+TLOTAmrutaB_Ship
+NotoSansTelugu Regular
+NotoSansTelugu_SemiCondensed Regular
+BalooTammudu2 Regular
+TLOTSwamiBI_Ship
+NotoSansTelugu VariableFont_wdth,wght
+BalooTammudu2 Medium
+TLOTDraupadiI_Ship
+NotoSansTelugu ExtraLight
+NotoSerifTelugu SemiBold
+NotoSansTelugu_SemiCondensed ExtraLight
+NotoSansTelugu SemiBold
+BalooTammudu Regular
+NotoSansTelugu_ExtraCondensed SemiBold
+NotoSansTelugu VariableFont_wdth,wght
+NotoSansTelugu_SemiCondensed Thin
+Suravara_Swarna_italic
+Ramabhadra Regular
+NotoSansTelugu VariableFont_wdth,wght
+Gurajada Regular
+NotoSansTeluguUI Bold
+TLOTSanjanaBI_Ship
+TLOTVennela1B_Ship
+NotoSerifTelugu ExtraLight
+NotoSansTelugu VariableFont_wdth,wght
+Pothana2001
+NotoSerifTelugu Regular
+Nandini3
+Ponnala
+TLOTKrishnaI_Ship
+Dhurjati Regular
+NotoSansTelugu VariableFont_wdth,wght
+Ponnala Regular
+NotoSansTelugu VariableFont_wdth,wght
+TLOTManuN_Ship
+NotoSerifTelugu VariableFont_wght
+NotoSansTelugu VariableFont_wdth,wght
+TLOTPavaniBI_Ship
+TLOTVennelaN_Ship
+Suravaram Regular
+TLOTAtreyaB_Ship
+Chathura ExtraBold
+NotoSansTelugu VariableFont_wdth,wght
+NotoSerifTelugu VariableFont_wght
+Gidugu Regular
+NTR
+NotoSansTelugu_Condensed ExtraBold
+NotoSansTelugu Black
+lohit_te
+NotoSansTelugu_SemiCondensed Medium
+gautami
+gautamib
+NotoSansTelugu Thin
+BalooTammudu2 ExtraBold
+SakalBharati Normal_Ship
+NotoSansTelugu VariableFont_wdth,wght
+NotoSansTelugu_ExtraCondensed Light
+Vemana
+TLOTPriyaB_Ship
+akshar
+TLOTManuI_Ship
+NotoSansTelugu Light
+Chathura Light
+NotoSansTelugu VariableFont_wdth,wght
+TimmanaRegular
+Gidugu
+NotoSerifTelugu Thin
+BalooTammudu2 Bold
+NotoSerifTelugu ExtraBold
+TLOTRajanB_Ship
+TLOTDraupadiN_Ship
+Mallanna Regular
+Suravara_Swarna
+TLOTAmmaN_ship
+RamaneeyaWin
+NotoSansTelugu VariableFont_wdth,wght
+NotoSansTelugu_ExtraCondensed Bold
+Nandini
+NotoSansTelugu VariableFont_wdth,wght
+NotoSansTelugu VariableFont_wdth,wght
+TLOTDraupadiBI_Ship
+TLOTDevaI_Ship
+Vanib
+NotoSansTelugu_SemiCondensed SemiBold
+NotoSansTelugu_ExtraCondensed Black
+NTR Regular
+TLOTChandanaB_Ship
+SreeKrushnadevaraya Regular
+TLOTKrishnaN_Ship
+TLOTMenakaBI_Ship
+AkayaTelivigala Regular
+NotoSansTelugu_SemiCondensed Bold
+TLOTRajanBI_Ship
+NotoSansTelugu_Condensed Bold
+NotoSansTelugu VariableFont_wdth,wght
+Suravara_Samhita
+NotoSansTelugu VariableFont_wdth,wght
+TLOTChandanaBI_Ship
+Suranna
+TLOTGolkondaBI_Ship
+Suravaram
+NotoSansTelugu_SemiCondensed Black
+NotoSansTelugu_ExtraCondensed ExtraLight
+TLOTManuBI_Ship
+LakkiReddy Regular
+NotoSansTelugu VariableFont_wdth,wght
+TLOTAtreyaN_Ship
+NotoSerifTelugu Bold
+TLOTSitaraBI_Ship
+NotoSansTelugu VariableFont_wdth,wght
+TLOTDraupadiB_ship
+TLOTAmmaBI_ship
+NotoSansTelugu VariableFont_wdth,wght
+NotoSansTelugu_SemiCondensed ExtraBold
+NotoSansTelugu VariableFont_wdth,wght

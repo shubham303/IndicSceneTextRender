@@ -1,0 +1,201 @@
+MLOTMalavikaBI_Ship
+AnjaliOldLipi
+NotoSansMalayalam Medium
+NotoSansMalayalam VariableFont_wdth,wght
+NotoSansMalayalam VariableFont_wdth,wght
+MLOTAmbiliN_Ship
+BalooChettan Regular
+NotoSerifMalayalam Thin
+NotoSerifMalayalam VariableFont_wght
+NotoSansMalayalam_ExtraCondensed Regular
+NotoSansMalayalam VariableFont_wdth,wght
+suruma2
+NotoSerifMalayalam ExtraBold
+MLOTChippiI_Ship
+NotoSerifMalayalam VariableFont_wght
+NotoSansMalayalam_SemiCondensed Light
+NotoSansMalayalam VariableFont_wdth,wght
+Gayathri Regular
+MLOTAmbiliB_Ship
+MLOTSruthyB_Ship
+NotoSansMalayalam SemiBold
+MLOTBhanuBI_Ship
+akshar
+NotoSansMalayalam VariableFont_wdth,wght
+NotoSansMalayalam_Condensed SemiBold
+NotoSansMalayalam VariableFont_wdth,wght
+Uroob
+HindKochi SemiBold
+HindKochi Medium
+NotoSansMalayalam VariableFont_wdth,wght
+MLOTPayippaduBI_Ship
+MayaB_Ship
+NotoSansMalayalam_ExtraCondensed ExtraBold
+HindKochi Light
+RaghuMalayalamSans2
+NotoSansMalayalam_SemiCondensed Black
+MLOTIndulekhaB_Ship.TTF: GIST\ MLOTIndulekha:style=Bold
+AnjaliOldLipi 0.730
+MLOTKaumudiBI_Ship
+NotoSansMalayalam_ExtraCondensed SemiBold
+GIST MLOTMalavika
+NotoSerifMalayalam VariableFont_wght
+Manjari Regular
+Meera_04
+NotoSansMalayalam_Condensed ExtraLight
+MLOTSabariI_Ship
+MLOTAshtamudiBI_Ship
+MLOTShrutiI_Ship
+NotoSansMalayalam VariableFont_wdth,wght
+NotoSansMalayalam_SemiCondensed SemiBold
+NotoSansMalayalam VariableFont_wdth,wght
+NotoSansMalayalam_ExtraCondensed ExtraLight
+NotoSansMalayalam VariableFont_wdth,wght
+BalooChettan2 ExtraBold
+lohit_ml
+THOLITRD.TTF: ThoolikaTraditionalUnicode:style=Regular
+KalindiB_Ship
+NotoSansMalayalam VariableFont_wdth,wght
+MLOTKaumudiI_Ship
+ML NILA01
+NotoSansMalayalam VariableFont_wdth,wght
+NotoSansMalayalam VariableFont_wdth,wght
+NotoSansMalayalam VariableFont_wdth,wght
+MLOTAmbiliBI_Ship
+MLOTAmbiliI_Ship
+MLOTMridulaN_Ship
+MLOTMridulaI_Ship
+HindKochi Regular
+NotoSansMalayalam_Condensed Bold
+NotoSansMalayalam VariableFont_wdth,wght
+MLOTIndulekhaBI_Ship.TTF: GIST\ MLOTIndulekha:style=BoldItalic
+MLOTKamudiN_Ship
+Nirmala
+NotoSansMalayalam_ExtraCondensed Black
+MLOTMalavikaN_Ship
+MLOTShrutiBI_Ship
+MLOTAshtamudiN_Ship
+NotoSansMalayalam Black
+NotoSansMalayalam VariableFont_wdth,wght
+BalooChettan2 Regular
+Akshar Unicode
+Rachana Bold
+NotoSerifMalayalam VariableFont_wght
+NotoSerifMalayalam VariableFont_wght
+NotoSansMalayalam ExtraBold
+NotoSansMalayalam VariableFont_wdth,wght
+MLOTPeriyarBI_Ship
+NotoSansMalayalam VariableFont_wdth,wght
+MLOTSruthyN_Ship
+NotoSansMalayalam VariableFont_wdth,wght
+kartikab
+NotoSansMalayalam Light
+MLOTAshtamudiI_Ship
+NotoSerifMalayalam Regular
+NotoSerifMalayalam VariableFont_wght
+NotoSansMalayalam Bold
+Meera
+Samyak Malayalam
+BalooChettan2 Bold
+MLOTSabariB_Ship
+MLOTPeriyarN_Ship
+MLOTAswathiBI_Ship
+NotoSansMalayalam_SemiCondensed Medium
+NotoSansMalayalam ExtraLight
+NotoSansMalayalam VariableFont_wdth,wght
+NotoSansMalayalam_SemiCondensed Regular
+NotoSerifMalayalam VariableFont_wght
+NotoSerifMalayalam SemiBold
+MLOTAswathiN_Ship.TTF: GIST\ MLOTAswathi:style=Normal
+ML NILA02
+NotoSansMalayalam_ExtraCondensed Bold
+NotoSansMalayalam_SemiCondensed Bold
+NotoSansMalayalam VariableFont_wdth,wght
+NotoSansMalayalam_Condensed Light
+NotoSansMalayalam Thin
+NotoSansMalayalam_ExtraCondensed Medium
+ML NILA03
+NotoSansMalayalam_ExtraCondensed Light
+MLOTAswatiB_ship
+SakalBharati Normal
+JanaMalayalam.TTF: JanaMalayalam:style=Sans
+ML NILA01_NewLipi
+NotoSansMalayalam_Condensed Medium
+SakalBharati Normal_Ship
+NotoSansMalayalam VariableFont_wdth,wght
+NotoSerifMalayalam VariableFont_wght
+ML NILA06
+NotoSansMalayalam_Condensed Black
+ML NILA07
+Rachana_04
+MLOTPeriyarI_Ship
+MLOTKottakkalBI_Ship
+ML NILA03_NewLipi
+ML NILA04
+Karumbi
+ML NILA05
+NotoSerifMalayalam ExtraLight
+NotoSansMalayalam VariableFont_wdth,wght
+ML NILA02_NewLipi
+MLOTPayippadB_Ship
+BalooChettan2 SemiBold
+NotoSansMalayalam_SemiCondensed Thin
+NotoSerifMalayalam Medium
+NotoSansMalayalam VariableFont_wdth,wght
+NotoSansMalayalam_ExtraCondensed Thin
+NotoSerifMalayalam Bold
+ML NILA05_NewLipi
+Suruma
+MLOTIndulekhaI_Ship.TTF: GIST\ MLOTIndulekha:style=Italic
+ML NILA04_NewLipi
+BalooChettan2 Medium
+NotoSansMalayalam Regular
+NotoSansMalayalam_SemiCondensed ExtraLight
+NotoSansMalayalam VariableFont_wdth,wght
+KalindiBI_Ship
+NotoSansMalayalam VariableFont_wdth,wght
+NotoSansMalayalam VariableFont_wdth,wght
+Keraleeyam
+Gayathri Bold
+ML NILA07_NewLipi
+MLOTMalavikaB_Ship
+MLOTMalavikaI_Ship
+MLOTMakamB_Ship
+MLOTChippiN_Ship
+NotoSansMalayalam VariableFont_wdth,wght
+NotoSansMalayalam VariableFont_wdth,wght
+ML NILA06_NewLipi
+HindKochi Bold
+RRJanaMalayalam.TTF: JanaMalayalam:style=Sans
+RaghuMalayalamSans Regular
+Chilanka Regular
+MLOTIndulekhaN_Ship.TTF: GIST\ MLOTIndulekha:style=Normal
+NotoSansMalayalam_SemiCondensed ExtraBold
+NotoSerifMalayalam Light
+NotoSerifMalayalam VariableFont_wght
+NotoSerifMalayalam VariableFont_wght
+Manjari Thin
+Gayathri Thin
+NotoSansMalayalam VariableFont_wdth,wght
+NotoSansMalayalam VariableFont_wdth,wght
+Rachana Regular
+NotoSansMalayalam_Condensed Regular
+NotoSansMalayalam VariableFont_wdth,wght
+NotoSansMalayalam VariableFont_wdth,wght
+MLOTBhanuB_Ship
+Manjari Bold
+MLOTPeriyarB_Ship
+MLOTKamudiB_Ship
+MLOTMakamBI_Ship
+NotoSansMalayalam_Condensed ExtraBold
+NotoSansMalayalam_Condensed Thin
+AnjaliNewLipi
+NotoSansMalayalam VariableFont_wdth,wght
+NotoSerifMalayalam Black
+NotoSansMalayalam VariableFont_wdth,wght
+NotoSansMalayalam VariableFont_wdth,wght
+MLOTAswathiIta_Ship.TTF: GIST\ MLOTAswathi:style=Italic
+MLOTAshtamudiB_Ship
+MayaBI_Ship
+NotoSansMalayalam VariableFont_wdth,wght
+MLOTKottakkalB_Ship

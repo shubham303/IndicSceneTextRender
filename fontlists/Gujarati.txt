@@ -1,0 +1,88 @@
+Rasa Light
+NotoSerifGujarati VariableFont_wght
+NotoSansGujarati Bold
+NotoSerifGujarati Medium
+Rasa Italic VariableFont_wght
+NotoSerifGujarati VariableFont_wght
+NotoSansGujarati Thin
+NotoSansGujarati ExtraLight
+Nirmala
+Samyak Gujarati
+MuktaVaani SemiBold
+NotoSansGujarati Regular
+Shrikhand Regular
+Rasa Italic VariableFont_wght
+MuktaVaani Regular
+Lohit Gujarati
+NotoSerifGujarati VariableFont_wght
+SakalBharati Normal
+NotoSerifGujarati Regular
+Rasa VariableFont_wght
+GJOTKapila_N_Ship
+BalooBhai2 SemiBold
+Rasa SemiBoldItalic
+Rasa VariableFont_wght
+GJOTPiyushN_Ship.TTF: GIST\ GJOTPiyush:style=Normal
+SakalBharati Normal_Ship
+MuktaVaani ExtraBold
+shruti
+shrutib
+Farsan Regular
+BalooBhai2 Medium
+NotoSerifGujarati VariableFont_wght
+HindVadodara SemiBold
+NotoSerifGujarati Thin
+NotoSerifGujarati VariableFont_wght
+HindVadodara Medium
+Rekha
+NotoSerifGujarati VariableFont_wght
+MuktaVaani Medium
+BalooBhai2 Regular
+padmaa Bold.1.1
+Rasa Medium
+Mogra Regular
+MuktaVaani ExtraLight
+NotoSansGujarati Black
+Rasa Bold
+NotoSansGujarati ExtraBold
+Rasa Italic VariableFont_wght
+NotoSansGujarati Medium
+padmaa Medium 0.5
+NotoSerifGujarati VariableFont_wght
+GIST GJOTPiyush.TTF: GIST\ GJOTPiyush:style=Normal
+Rasa MediumItalic
+KumarOne Regular
+Rasa Italic VariableFont_wght
+NotoSerifGujarati ExtraLight
+BalooBhai2 ExtraBold
+Rasa Italic VariableFont_wght
+Rasa VariableFont_wght
+NotoSerifGujarati VariableFont_wght
+Rasa VariableFont_wght
+NotoSerifGujarati Light
+MuktaVaani Light
+Rasa SemiBold
+NotoSansGujarati Light
+NotoSerifGujarati SemiBold
+Rasa VariableFont_wght
+aakar medium
+BalooBhai2 Bold
+Rasa Italic VariableFont_wght
+Rasa Italic
+Rasa VariableFont_wght
+HindVadodara Light
+NotoSerifGujarati VariableFont_wght
+NotoSerifGujarati Bold
+NotoSansGujarati SemiBold
+NotoSerifGujarati Black
+HindVadodara Bold
+HindVadodara Regular
+padmaa
+Rasa BoldItalic
+Rasa LightItalic
+NotoSerifGujarati VariableFont_wght
+KumarOneOutline Regular
+NotoSerifGujarati ExtraBold
+MuktaVaani Bold
+Rasa Regular
+BalooBhai Regular
