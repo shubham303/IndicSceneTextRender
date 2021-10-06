@@ -82,7 +82,7 @@ shadowWidthSignOptions = {'+', '-'}
 numWords = len(words)
 words.sort()
 print('number of words in the vocab= ', numWords)
-thousand = int(0 / 100)
+thousand = int(0 / 1000)
 
 #meta data file stores the index of last rendered word.
 meta_file_name= sys.argv[3] + sys.argv[4] +"meta.txt"
@@ -98,16 +98,16 @@ if s=="":
 	resume_word_index=0
 else:
 	resume_word_index= int(s)
-writeDir=writeDirParent+ str(int(resume_word_index/100)) +"/"
+writeDir=writeDirParent+ str(int(resume_word_index/1000)) +"/"
 for i in range(resume_word_index, numWords):
-	if i % 100 == 0:
+	if i % 1000 == 0:
 		print('completed ', i)
-		thousand = int(i / 100)
+		thousand = int(i / 1000)
 		writeDir = writeDirParent + str(thousand) + '/'
 		# print writeDir
 		if not os.path.exists(writeDir):
 			os.makedirs(writeDir)
-		filelist = glob.glob("*.png")  # remove all temp png files after every 100 words
+		filelist = glob.glob("*.png")  # remove all temp png files after every 1000 words
 		for f in filelist:
 			os.remove(f)
 	textImageName = str(i) + '_text.png'
