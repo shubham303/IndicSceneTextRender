@@ -1,25 +1,9 @@
-SakalBharati Normal_Ship
-BalooBhaina2 ExtraBold
-raavi
-OROTMuktaN_Ship.TTF: GIST\ OROTMukta:style=Normal
-NotoSansOriya Black
-utkal
-NotoSansOriya Thin
-ODIA OT V2.TTF: Odia_OT_Jagannatha:style=Normal
-BalooBhaina2 Bold
-SakalBharati Normal
-Samyak Oriya
-BalooBhaina Regular
-Nirmala
-BalooBhaina2 Regular
-BalooBhaina2 Medium
-Sarala
-GIST OROTMukta.TTF: GIST\ OROTMukta:style=Normal
-raavib
-NotoSansOriya Bold
-BalooBhaina2 SemiBold
-OdiaOTJagannathaNormal
-NotoSansOriya Regular
-Lohit Oriya
-OROTChilikaN_Ship
-Lohit Odia
+BalooBhaina2-Bold.ttf
+BalooBhaina2-ExtraBold.ttf
+BalooBhaina2-Medium.ttf
+BalooBhaina2-Regular.ttf
+BalooBhaina2-SemiBold.ttf
+NotoSansOriya-Black.ttf
+NotoSansOriya-Bold.ttf
+NotoSansOriya-Regular.ttf
+NotoSansOriya-Thin.ttf

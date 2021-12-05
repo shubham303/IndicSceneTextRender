@@ -1,127 +1,126 @@
-SakalBharati Normal
-ae_Hani
-Pak Nastaleeq (Beta Release)
-ae_AlHor
-ae_Mashq
-Amiri Slanted
-Cairo Light
-DejaVuSansMono Bold
-ae_Petra
-ae_Metal
-adarghal
-ae_Nada
-GIST KAS PAOTMaqbool
-ae_AlBattar
-GIST SND PAOTSarmast
-GIST UROTGhalib_N_Ship
-Mothanna Oblique
-Lemonada Bold
-Thabit Oblique
-Changa SemiBold
-Mirza Bold
-ae_AlMothnna Bold
-Thabit Bold
-ae_AlMateen Bold
-Mothanna
-AraHamahAlFidaa Regular
-Harmattan Regular
-Amiri Regular
-qassam
-AraHamah1982 Regular
-GIST UROTNabeel_N_Ship
-ae_Mashq Bold
-ae_Hor
-ae_Japan
-ae_Tarablus
-ae_Granada
-ae_Sharjah
-ae_AlArabiya
-Naqsh
-ae_Jet
-SakalBharati Normal_Ship
-ElMessiri Medium
-Cairo Bold
-arabswell
-AraHamah1964R Regular
-ElMessiri Regular
-AraHamahAlThawra Regular
-AraAqeeq Bold
-AraAqeeq ExtraBold
-ae_Cortoba
-GIST UROTGhalib
-AraHamahZanki Regular
-Scheherazade Regular
-ae_Electron
-Lemonada Light
-Changa ExtraBold
-GIST KAS PAOTHabba_N_Ship
-ElMessiri SemiBold
-Nastaleeq Like
-ArefRuqaa Bold
-ae_Tholoth
-ae_Nice
-Changa Medium
-ae_AlManzomah
-Changa Bold
-ElMessiri Bold
-AraHamahAlislam Regular
-Thabit Bold Oblique
-ae_Salem
-Mada Medium
-AraHamahAlHorra Regular
-GIST SND PAOTSarmast_N_Ship
-Scheherazade Bold
-ae_Graph
-Changa Regular
-Mada Regular
-AraHamahSahetAlAssi Regular
-Mothanna Bold
-Amiri BoldSlanted
-LateefRegOT
-DejaVuSansMono
-AraHalaBoShe sha Regular
-Jameel Noori Nastaleeq
-GIST SND PAOTMurasilat_N_Ship
-ae_Sindbad
-ae_Arab
-ArefRuqaa Regular
-Mada Light
-ae_AlYarmook
-ae_Rasheeq Bold
-Cairo Regular
-JF Flat regular
-ae_Dimnah
-Mirza Regular
-ae_Shado
-Changa Light
-ae_Rehan
-ae_Ouhod Bold
-Lemonada SemiBold
-Thabit
-Mirza Medium
-AraHamah1964B Bold
-Cairo ExtraLight
-Katibeh Regular
-Mada Black
-omar font
-Jomhuria Regular
-AraAssaf Regular
-Cairo SemiBold
-Mothanna Bold Oblique
-DejaVuSans
-DejaVuSans Bold
-ae_Khalid
-Lemonada Regular
-ae_Kayrawan
-Lalezar Regular
-ae_AlMohanad
-GIST KAS PAOTMaqbool_N_Ship
-Cairo Black
-AraHamahHoms Regular
-Amiri Bold
-ae_Ostorah
-AraHamahKilania Regular
-freemono
-ae_Furat
-Changa ExtraLight
-ae_Nagham
+Amiri-BoldItalic.ttf
+Amiri-Bold.ttf
+Amiri-Italic.ttf
+Amiri-Regular.ttf
+ArefRuqaa-Bold.ttf
+ArefRuqaa-Regular.ttf
+Changa-Bold.ttf
+Changa-ExtraBold.ttf
+Changa-ExtraLight.ttf
+Changa-Light.ttf
+Changa-Medium.ttf
+Changa-Regular.ttf
+Changa-SemiBold.ttf
+Changa-VariableFont_wght.ttf
+ElMessiri-Bold.ttf
+ElMessiri-Medium.ttf
+ElMessiri-Regular.ttf
+ElMessiri-SemiBold.ttf
+ElMessiri-VariableFont_wght.ttf
+Harmattan-Bold.ttf
+Harmattan-Regular.ttf
+IBMPlexSansArabic-Bold.ttf
+IBMPlexSansArabic-ExtraLight.ttf
+IBMPlexSansArabic-Light.ttf
+IBMPlexSansArabic-Medium.ttf
+IBMPlexSansArabic-Regular.ttf
+IBMPlexSansArabic-SemiBold.ttf
+IBMPlexSansArabic-Thin.ttf
+Jomhuria-Regular.ttf
+Katibeh-Regular.ttf
+Kufam-BlackItalic.ttf
+Kufam-Black.ttf
+Kufam-BoldItalic.ttf
+Kufam-Bold.ttf
+Kufam-ExtraBoldItalic.ttf
+Kufam-ExtraBold.ttf
+Kufam-Italic.ttf
+Kufam-Italic-VariableFont_wght.ttf
+Kufam-MediumItalic.ttf
+Kufam-Medium.ttf
+Kufam-Regular.ttf
+Kufam-SemiBoldItalic.ttf
+Kufam-SemiBold.ttf
+Kufam-VariableFont_wght.ttf
+Lalezar-Regular.ttf
+Lateef-Regular.ttf
+Lemonada-Bold.ttf
+Lemonada-Light.ttf
+Lemonada-Medium.ttf
+Lemonada-Regular.ttf
+Lemonada-SemiBold.ttf
+Lemonada-VariableFont_wght.ttf
+Mada-Black.ttf
+Mada-Bold.ttf
+Mada-ExtraLight.ttf
+Mada-Light.ttf
+Mada-Medium.ttf
+Mada-Regular.ttf
+Mada-SemiBold.ttf
+MarkaziText-Bold.ttf
+MarkaziText-Medium.ttf
+MarkaziText-Regular.ttf
+MarkaziText-SemiBold.ttf
+MarkaziText-VariableFont_wght.ttf
+Mirza-Bold.ttf
+Mirza-Medium.ttf
+Mirza-Regular.ttf
+Mirza-SemiBold.ttf
+NotoKufiArabic-Black.ttf
+NotoKufiArabic-Bold.ttf
+NotoKufiArabic-ExtraBold.ttf
+NotoKufiArabic-ExtraLight.ttf
+NotoKufiArabic-Light.ttf
+NotoKufiArabic-Medium.ttf
+NotoKufiArabic-Regular.ttf
+NotoKufiArabic-SemiBold.ttf
+NotoKufiArabic-Thin.ttf
+NotoKufiArabic-VariableFont_wght.ttf
+NotoNaskhArabic-Bold.ttf
+NotoNaskhArabic-Medium.ttf
+NotoNaskhArabic-Regular.ttf
+NotoNaskhArabic-SemiBold.ttf
+NotoNaskhArabic-VariableFont_wght.ttf
+NotoNastaliqUrdu-Bold.ttf
+NotoNastaliqUrdu-Regular.ttf
+NotoSansArabic-Black.ttf
+NotoSansArabic-Bold.ttf
+NotoSansArabic_Condensed-Black.ttf
+NotoSansArabic_Condensed-Bold.ttf
+NotoSansArabic_Condensed-ExtraBold.ttf
+NotoSansArabic_Condensed-ExtraLight.ttf
+NotoSansArabic_Condensed-Light.ttf
+NotoSansArabic_Condensed-Medium.ttf
+NotoSansArabic_Condensed-Regular.ttf
+NotoSansArabic_Condensed-SemiBold.ttf
+NotoSansArabic_Condensed-Thin.ttf
+NotoSansArabic-ExtraBold.ttf
+NotoSansArabic_ExtraCondensed-Black.ttf
+NotoSansArabic_ExtraCondensed-Bold.ttf
+NotoSansArabic_ExtraCondensed-ExtraBold.ttf
+NotoSansArabic_ExtraCondensed-ExtraLight.ttf
+NotoSansArabic_ExtraCondensed-Light.ttf
+NotoSansArabic_ExtraCondensed-Medium.ttf
+NotoSansArabic_ExtraCondensed-Regular.ttf
+NotoSansArabic_ExtraCondensed-SemiBold.ttf
+NotoSansArabic_ExtraCondensed-Thin.ttf
+NotoSansArabic-ExtraLight.ttf
+NotoSansArabic-Light.ttf
+NotoSansArabic-Medium.ttf
+NotoSansArabic-Regular.ttf
+NotoSansArabic-SemiBold.ttf
+NotoSansArabic_SemiCondensed-Black.ttf
+NotoSansArabic_SemiCondensed-Bold.ttf
+NotoSansArabic_SemiCondensed-ExtraBold.ttf
+NotoSansArabic_SemiCondensed-ExtraLight.ttf
+NotoSansArabic_SemiCondensed-Light.ttf
+NotoSansArabic_SemiCondensed-Medium.ttf
+NotoSansArabic_SemiCondensed-Regular.ttf
+NotoSansArabic_SemiCondensed-SemiBold.ttf
+NotoSansArabic_SemiCondensed-Thin.ttf
+NotoSansArabic-Thin.ttf
+NotoSansArabic-VariableFont_wdth,wght.ttf
+Qahiri-Regular.ttf
+Rakkas-Regular.ttf
+ScheherazadeNew-Bold.ttf
+ScheherazadeNew-Regular.ttf

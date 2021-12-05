@@ -1,487 +1,150 @@
-TAU Barathi
-NotoSerifTamil_SemiCondensed Regular
-NotoSerifTamil_ExtraCondensed Light
-TAU_Elango_Pallavi.TTF: TAU_Elango_Pallavi:style=Regular
-BalooThambi2 Bold
-TAU_ARUN.TTF: TAU_Elango_Arunthathi:style=Regular
-NotoSerifTamil VariableFont_wdth,wght
-TAU_VALN.TTF: TAU_Elango_Valluvan:style=Regular
-TAU_MANN.TTF: TAU_Elango_Manimekalai:style=Regular
-HindMadurai SemiBold
-TSCu_Comic
-Catamaran Regular
-MuktaMalar ExtraLight
-NotoSansTamil VariableFont_wdth,wght
-NotoSansTamil VariableFont_wdth,wght
-NotoSerifTamil VariableFont_wdth,wght
-NotoSerifTamil Black
-TAU   Neythal
-NotoSerifTamil VariableFont_wdth,wght
-TAU   Mullai
-NotoSansTamil VariableFont_wdth,wght
-TMOTCHBI_Ship.TTF: GIST\ TMOTChanakya:style=BoldItalic
-NotoSansTamil VariableFont_wdth,wght
-TAU   Malar
-Catamaran Thin
-NotoSansTamil_ExtraCondensed Light
-NotoSerifTamil ExtraBold
-TAU   Urai
-TABUni Tamil021
-TMOTPTI_Ship
-NotoSerifTamil VariableFont_wdth,wght
-TAU_ASON.TTF: TAU_Elango_Asokan:style=Regular
-TMOTKMI_Ship.TTF: GIST\ TMOTKamal:style=Italic
-NotoSerifTamil_ExtraCondensed SemiBold
-TAU_Elango_Ragham.TTF: TAU_Elango_Ragham:style=Regular
-NotoSansTamil VariableFont_wdth,wght
-NotoSerifTamil_ExtraCondensed ExtraLight
-NotoSansTamil ExtraLight
-NotoSansTamil VariableFont_wdth,wght
-TMOTCNB_Ship.TTF: GIST\ TMOTChandra:style=Bold
-NotoSerifTamil Italic VariableFont_wdth,wght
-TAU_VASN.TTF: TAU_Elango_Vasuki:style=Regular
-TAU_THIN.TTF: TAU_Elango_Thilllana:style=Regular
-RRJanaTamil.TTF: JanaTamil,JanTamil:style=Roman
-NotoSansTamil_Condensed ExtraLight
-NotoSerifTamil_SemiCondensed MediumItalic
-Catamaran ExtraLight
-TAU Valluvar
-TMOTILN_Ship
-NotoSerifTamil_SemiCondensed ExtraBoldItalic
-NotoSansTamil VariableFont_wdth,wght
-NotoSerifTamil_ExtraCondensed MediumItalic
-latha
-TABUni Tamil032
-NotoSerifTamil_SemiCondensed Black
-NotoSerifTamil Medium
-NotoSerifTamil Italic VariableFont_wdth,wght
-NotoSerifTamil_Condensed ExtraLight
-TAU Kaveri I
-TAU_DEVN.TTF: TAU_Elango_Devi:style=Regular
-NotoSansTamil VariableFont_wdth,wght
-TAU_GODN.TTF: TAU_Elango_Godavari:style=Regular
-NotoSerifTamil_ExtraCondensed Medium
-NotoSerifTamil VariableFont_wdth,wght
-TAU_MARN.TTF: TAU_Elango_Marutham:style=Regular
-NotoSerifTamil_ExtraCondensed Black
-TMOTKGBI_Ship.TTF: GIST\ TMOTKannagi:style=BoldItalic
-TAMu_Kadampari
-TAU   Achu
-NotoSerifTamil_SemiCondensed ExtraBold
-NotoSerifTamil Italic VariableFont_wdth,wght
-TAU Kambar
-Catamaran Bold
-TAU Kabilar B
-NotoSansTamil_ExtraCondensed Black
-NotoSerifTamil BoldItalic
-NotoSerifTamil VariableFont_wdth,wght
-NotoSansTamil VariableFont_wdth,wght
-Coiny Regular
-NotoSerifTamil Italic VariableFont_wdth,wght
-NotoSerifTamil Italic VariableFont_wdth,wght
-ArimaMadurai Thin
-Catamaran VariableFont_wght
-sundaram 1341
-SUNDARAM 0824
-TMOTKLB_Ship
-NotoSerifTamil Italic VariableFont_wdth,wght
-NotoSerifTamil Italic VariableFont_wdth,wght
-NotoSansTamil VariableFont_wdth,wght
-BalooThambi Regular
-HindMadurai Light
-TAU_KALN.TTF: TAU_Elango_Kalyani:style=Regular
-TMOTLLN_Ship
-MuktaMalar Regular
-TAU_ATIN.TTF: TAU_Elango_Athithan:style=Regular
-NotoSerifTamil VariableFont_wdth,wght
-Catamaran VariableFont_wght
-NotoSerifTamil VariableFont_wdth,wght
-Catamaran Medium
-SUNDARAM 2865
-NotoSerifTamil_SemiCondensed ThinItalic
-NotoSerifTamil_SemiCondensed LightItalic
-NotoSansTamil_SemiCondensed Thin
-NotoSansTamil VariableFont_wdth,wght
-SUNDARAM 0806
-TAU_MUTN.TTF: TAU_Elango_Muthu:style=Regular
-SUNDARAM 0827
-TAU_KAPN.TTF: TAU_Elango_Kapilan:style=Regular
-NotoSansTamil Thin
-NotoSansTamil_ExtraCondensed Thin
-NotoSerifTamil VariableFont_wdth,wght
-NotoSansTamil VariableFont_wdth,wght
-SUNDARAM 0807
-NotoSerifTamil VariableFont_wdth,wght
-SUNDARAM 0830
-TAU_DHAN.TTF: TAU_Elango_Dhanam:style=Regular
-NotoSerifTamil VariableFont_wdth,wght
-NotoSansTamil VariableFont_wdth,wght
-Catamaran VariableFont_wght
-SUNDARAM 0820
-NotoSerifTamil VariableFont_wdth,wght
-TAMu_Kalyani
-NotoSerifTamil_Condensed ThinItalic
-SUNDARAM 0808
-SUNDARAM 0810
-SUNDARAM 0831
-Akshar Unicode
-SUNDARAM 0821
-NotoSansTamil_Condensed SemiBold
-NotoSansTamil Bold
-NotoSansTamil_ExtraCondensed Medium
-TMOTPDN_Ship
-SUNDARAM 0819
-TAU_Elango_Madhavi.TTF: TAU_Elango_Madhavi:style=Regular
-NotoSansTamil VariableFont_wdth,wght
-TAU Kaveri BI
-NotoSerifTamil_Condensed Black
-NotoSerifTamil Bold
-NotoSansTamil VariableFont_wdth,wght
-SUNDARAM 0812
-NotoSerifTamil_Condensed Italic
-TMOTCHI_Ship.TTF: GIST\ TMOTChanakya:style=Italic
-Catamaran VariableFont_wght
-SUNDARAM 0823
-NotoSansTamil VariableFont_wdth,wght
-Catamaran VariableFont_wght
-SUNDARAM 2852
-TAU   Palai
-TAU_MADN.TTF: TAU_Elango_Madhavi:style=Regular
-NotoSansTamil_SemiCondensed Medium
-NotoSerifTamil Italic VariableFont_wdth,wght
-NotoSansTamil VariableFont_wdth,wght
-TAU_AGAN.TTF: TAU_Elango_Agasthiyar:style=Regular
-NotoSerifTamil_SemiCondensed Italic
-TAU_SENN.TTF: TAU_Elango_Senguttuvan:style=Regular
-NotoSansTamil_Condensed Regular
-TAU_Elango_Vasuki.TTF: TAU_Elango_Vasuki:style=Regular
-NotoSansTamil_SemiCondensed ExtraLight
-TAU_PAVN.TTF: TAU_Elango_Pavalam:style=Regular
-NotoSerifTamil_Condensed ExtraBold
-tau1_bar
-NotoSansTamil VariableFont_wdth,wght
-NotoSerifTamil VariableFont_wdth,wght
-SUNDARAM 1351
-SUNDARAM 1341
-NotoSansTamil VariableFont_wdth,wght
-TMOTNMN_Ship
-NotoSerifTamil_ExtraCondensed Thin
-Catamaran ExtraBold
-NotoSerifTamil Italic VariableFont_wdth,wght
-NotoSansTamil VariableFont_wdth,wght
-MuktaMalar SemiBold
-NotoSerifTamil Italic VariableFont_wdth,wght
-NotoSerifTamil_ExtraCondensed ExtraBold
-SUNDARAM 1352
-SUNDARAM 1342
-NotoSerifTamil Italic VariableFont_wdth,wght
-TAU_Elango_Dhanam.TTF: TAU_Elango_Dhanam:style=Regular
-NotoSerifTamil Italic VariableFont_wdth,wght
-NotoSerifTamil Italic VariableFont_wdth,wght
-TAU_GUNN.TTF: TAU_Elango_Guntalakesi:style=Regular
-NotoSerifTamil Italic VariableFont_wdth,wght
-sundaram 0807
-NotoSerifTamil_ExtraCondensed BoldItalic
-NotoSerifTamil_Condensed SemiBold
-TAU_Elango_Asokan.TTF: TAU_Elango_Asokan:style=Regular
-NotoSerifTamil Italic VariableFont_wdth,wght
-TAU_Elango_Priyanka.TTF: TAU_Elango_Priyanka:style=Regular
-TMOTSMB_Ship
-TMOTNMB_Ship
-NotoSerifTamil VariableFont_wdth,wght
-NotoSerifTamil VariableFont_wdth,wght
-NotoSerifTamil VariableFont_wdth,wght
-NotoSerifTamil Italic VariableFont_wdth,wght
-NotoSansTamil Regular
-NotoSerifTamil_SemiCondensed SemiBold
-NotoSansTamil Medium
-TAU_KRIN.TTF: TAU_Elango_Krishna:style=Regular
-TMOTAMBI_Ship.TTF: GIST\ TMOTAmala:style=BoldItalic
-NotoSerifTamil VariableFont_wdth,wght
-SUNDARAM 0806.TTF: SUNDARAM_0806:style=Regular
-NotoSerifTamil Italic VariableFont_wdth,wght
-TAU Kabilar
-TMOTMNB_Ship
-TAU   Ezhil
-Catamaran VariableFont_wght
-TAU_REWN.TTF: TAU_Elango_Rewathy:style=Regular
-TMOTLLBI_Ship.TTF: GIST\ TMOTLalitha:style=BoldItalic
-NotoSerifTamil Italic VariableFont_wdth,wght
-SUNDARAM 0807.TTF: SUNDARAM_0807:style=Regular
-NotoSansTamil_SemiCondensed Bold
-NotoSerifTamil_SemiCondensed Thin
-Uni Ila.Sundaram 07
-NotoSerifTamil_Condensed ExtraBoldItalic
-SakalBharati Normal_Ship
-NotoSansTamil_Condensed Thin
-NotoSansTamil VariableFont_wdth,wght
-TMOTABBI_Ship.TTF: GIST\ TMOTAbhirami:style=BoldItalic
-TAU Kambar I
-NotoSerifTamil Italic VariableFont_wdth,wght
-TAU_Elango_Kabini.TTF: TAU_Elango_Kabini:style=Regular
-Uni Ila.Sundaram 06
-NotoSerifTamil_Condensed Light
-KarlaTamilInclined Bold
-SakalBharati Normal
-KarlaTamilUpright Regular
-NotoSansTamil VariableFont_wdth,wght
-TAU_SURN.TTF: TAU_Elango_Surya:style=Regular
-TMOTMDB_Ship
-NotoSerifTamil_SemiCondensed ExtraLight
-Catamaran Light
-Samyak Tamil
-Uni Ila.Sundaram 05
-NotoSerifTamil VariableFont_wdth,wght
-TAU Kabilar BI
-NotoSerifTamil_ExtraCondensed ExtraLightItalic
-TAU_Elango_Cheran.TTF: TAU_Elango_Cheran:style=Regular
-TMOTHNBI_Ship
-NotoSerifTamil VariableFont_wdth,wght
-NotoSerifTamil Regular
-SUNDARAM 0812.TTF: SUNDARAM_0812:style=Regular
-TMOTPTBI_Ship
-Uni Ila.Sundaram 04
-MuktaMalar Medium
-TAU_MOHN.TTF: TAU_Elango_Mohanam:style=Regular
-Kavivanar Regular
-NotoSansTamil VariableFont_wdth,wght
-NotoSerifTamil VariableFont_wdth,wght
-Uni Ila.Sundaram 03
-NotoSerifTamil Thin
-TSCu_paranarb
-SUNDARAM 0808.TTF: SUNDARAM_0808:style=Regular
-SUNDARAM 0810.TTF: SUNDARAM_0810:style=Regular
-ArimaMadurai Regular
-Uni Ila.Sundaram 02
-NotoSerifTamil_SemiCondensed BoldItalic
-SUNDARAM 0820.TTF: SUNDARAM_0820:style=Regular
-NotoSerifTamil Italic
-Catamaran Black
-NotoSerifTamil_SemiCondensed ExtraLightItalic
-SUNDARAM 3811
-SUNDARAM 0819.TTF: SUNDARAM_0819:style=Regular
-NotoSerifTamil_Condensed Medium
-BalooThambi2 Regular
-TAU_Elango_Cholaa.TTF: TAU_Elango_Cholaa:style=Regular
-TAU Barathi I
-MuktaMalar ExtraBold
-Uni Ila.Sundaram 09
-TAU_TODN.TTF: TAU_Elango_Todi:style=Regular
-TMOTKOBI_Ship
-TAU_KAMN.TTF: TAU_Elango_Kamban:style=Regular
-Uni Ila.Sundaram 01
-TAU_SANN.TTF: TAU_Elango_Sankara:style=Regular
-TMOTKDI_Ship.TTF: GIST\ TMOTKannadasan:style=Italic
-theneeuni
-TAU_Elango_Kalyani.TTF: TAU_Elango_Kalyani:style=Regular
-NotoSansTamil_SemiCondensed Regular
-Uni Ila.Sundaram 08
-Uni Ila.Sundaram 10
-TAU_Elango_Panchali.TTF: TAU_Elango_Panchali:style=Regular
-aava1
-TAU_KANN.TTF: TAU_Elango_Kannagi:style=Regular
-MeeraInimai Regular
-TMOTPRBI_Ship
-TMOTLLB_Ship
-NotoSerifTamil VariableFont_wdth,wght
-NotoSerifTamil_SemiCondensed BlackItalic
-NotoSerifTamil_SemiCondensed Medium
-TAU   Nilavu
-Catamaran VariableFont_wght
-NotoSansTamil_Condensed ExtraBold
-NotoSansTamil_Condensed Bold
-TMOTAMB_Ship.TTF: GIST\ TMOTAmala:style=Bold
-TAU_RATN.TTF: TAU_Elango_Rathnam:style=Regular
-NotoSansTamil_Condensed Light
-HindMadurai Regular
-TAU_BHON.TTF: TAU_Elango_Bhoopalam:style=Regular
-GIST TMOTPattinathar
-NotoSansTamil Light
-TAU   Marutham
-NotoSansTamil VariableFont_wdth,wght
-NotoSansTamil_Condensed Medium
-NotoSerifTamil_Condensed ExtraLightItalic
-TMOTKOB_Ship
-NotoSerifTamil Italic VariableFont_wdth,wght
-TAU_SABN.TTF: TAU_Elango_Sabari:style=Regular
-KarlaTamilUpright Bold
-ArimaMadurai ExtraLight
-Pavanam Regular
-NotoSerifTamil BlackItalic
-NotoSerifTamil VariableFont_wdth,wght
-NotoSerifTamil VariableFont_wdth,wght
-Catamaran VariableFont_wght
-NotoSerifTamil Italic VariableFont_wdth,wght
-TMOTCHB_Ship.TTF: GIST\ TMOTChanakya:style=Bold
-HindMadurai Medium
-NotoSerifTamil_ExtraCondensed ThinItalic
-TMOTKLBI_Ship.TTF: GIST\ TMOTKalyani:style=BoldItalic
-NotoSerifTamil Italic VariableFont_wdth,wght
-NotoSerifTamil VariableFont_wdth,wght
-NotoSerifTamil Italic VariableFont_wdth,wght
-TMOTSMBI_Ship
-TMOTPRB_Ship
-MuktaMalar Bold
-NotoSerifTamil SemiBold
-TMOTILB_Ship
-TAU_NALN.TTF: TAU_Elango_Nalina:style=Regular
-NotoSansTamil VariableFont_wdth,wght
-NotoSerifTamil_Condensed MediumItalic
-Lohit Tamil
-NotoSerifTamil_Condensed Bold
-NotoSerifTamil_Condensed SemiBoldItalic
-TMOTHNB_Ship
-TAU Valluvar I
-ArimaMadurai Bold
-NotoSansTamil VariableFont_wdth,wght
-TAU_Elango_Juliee.TTF: TAU_Elango_Juliee:style=Regular
-NotoSansTamil VariableFont_wdth,wght
-NotoSansTamil SemiBold
-NotoSerifTamil VariableFont_wdth,wght
-TAU_Elango_Pavalam.TTF: TAU_Elango_Pavalam:style=Regular
-NotoSerifTamil Italic VariableFont_wdth,wght
-BalooThambi2 ExtraBold
-TMOTAPB_Ship.TTF: GIST\ TMOTAppar:style=Bold
-HindMadurai Bold
-NotoSerifTamil Italic VariableFont_wdth,wght
-TMOTABB_Ship.TTF: GIST\ TMOTAbhirami:style=Bold
-TAU_NEEN.TTF: TAU_Elango_Neelampari:style=Regular
-TAU_ABIN.TTF: TAU_Elango_Abirami:style=Regular
-NotoSerifTamil_ExtraCondensed ExtraBoldItalic
-lohit_ta
-NotoSerifTamil VariableFont_wdth,wght
-TMOTKMBI_Ship.TTF: GIST\ TMOTKamal:style=BoldItalic
-NotoSansTamil_ExtraCondensed ExtraLight
-TAU_ANJN.TTF: TAU_Elango_Anjali:style=Regular
-TMOTAPBI_Ship.TTF: GIST\ TMOTAppar:style=BoldItalic
-TMOTNMBI_Ship
-NotoSansTamil VariableFont_wdth,wght
-TAU Kabilar I
-NotoSerifTamil Italic VariableFont_wdth,wght
-Uni Tamil042
-BalooThambi2 SemiBold
-sundaram 0806
-TMOTKGB_Ship.TTF: GIST\ TMOTKannagi:style=Bold
-NotoSerifTamil Italic VariableFont_wdth,wght
-NotoSerifTamil_SemiCondensed Bold
-NotoSerifTamil_ExtraCondensed Bold
-NotoSerifTamil VariableFont_wdth,wght
-NotoSansTamil VariableFont_wdth,wght
-TAU Kaveri
-NotoSansTamil_ExtraCondensed Regular
-TAU Valluvar BI
-Catamaran SemiBold
-NotoSerifTamil Italic VariableFont_wdth,wght
-TAU_KABN.TTF: TAU_Elango_Kabini:style=Regular
-TAU_RAGN.TTF: TAU_Elango_Ragham:style=Regular
-NotoSerifTamil VariableFont_wdth,wght
-NotoSerifTamil VariableFont_wdth,wght
-TAU_JULN.TTF: TAU_Elango_Juliee:style=Regular
-NotoSerifTamil Italic VariableFont_wdth,wght
-TAU_PRIN.TTF: TAU_Elango_Priyanka:style=Regular
-BalooThambi2 Medium
-NotoSerifTamil VariableFont_wdth,wght
-vaigaiuni
-TAU_VEEN.TTF: TAU_Elango_Veena:style=Regular
-ArimaMadurai Black
-NotoSansTamil_Condensed Black
-NotoSerifTamil Italic VariableFont_wdth,wght
-NotoSerifTamil Italic VariableFont_wdth,wght
-NotoSerifTamil_ExtraCondensed Italic
-Catamaran VariableFont_wght
-Uni Tamil046
-NotoSerifTamil VariableFont_wdth,wght
-TMOTKRB_Ship
-TAU_MALN.TTF: TAU_Elango_Malyamar:style=Regular
-TAU Valluvar B
-Uni Tamil195
-NotoSansTamil Black
-NotoSerifTamil Italic VariableFont_wdth,wght
-NotoSansTamil VariableFont_wdth,wght
-NotoSerifTamil_ExtraCondensed Regular
-TAU_JANN.TTF: TAU_Elango_Janani:style=Regular
-NotoSerifTamil Italic VariableFont_wdth,wght
-TAU_GANN.TTF: TAU_Elango_Ganga:style=Regular
-NotoSerifTamil ExtraLight
-NotoSansTamil VariableFont_wdth,wght
-TMOTLLI_Ship.TTF: GIST\ TMOTLalitha:style=Italic
-TMOTKUN_Ship.TTF: GIST\ TMOTKumudam:style=Normal
-TMOTNMI_Ship
-NotoSansTamil VariableFont_wdth,wght
-NotoSansTamil VariableFont_wdth,wght
-maduram
-NotoSansTamil VariableFont_wdth,wght
-NotoSerifTamil VariableFont_wdth,wght
-NotoSerifTamil Italic VariableFont_wdth,wght
-NotoSansTamil_ExtraCondensed ExtraBold
-TMOTPDB_Ship
-NotoSerifTamil ExtraBoldItalic
-TAU_PANN.TTF: TAU_Elango_Panchali:style=Regular
-TSCu_Times
-NotoSansTamil_SemiCondensed ExtraBold
-NotoSerifTamil SemiBoldItalic
-NotoSerifTamil Italic VariableFont_wdth,wght
-TAU_PALN.TTF: TAU_Elango_Pallavi:style=Regular
-NotoSansTamil_SemiCondensed SemiBold
-NotoSerifTamil VariableFont_wdth,wght
-NotoSansTamil VariableFont_wdth,wght
-NotoSerifTamil Light
-TAU_CHON.TTF: TAU_Elango_Cholaa:style=Regular
-NotoSansTamil VariableFont_wdth,wght
-TMOTCHN_Ship.TTF: GIST\ TMOTChanakya:style=Normal
-TMOTKDN_Ship.TTF: GIST\ TMOTKannadasan:style=Normal
-thendraluni
-TAU Kambar BI
-NotoSansTamil ExtraBold
-TMOTPTN_Ship.TTF: GIST\ TMOTPattinathar,CDAC\: GIST\ TMOTPattinathar Normal:style=Normal
-NotoSansTamil_ExtraCondensed SemiBold
-NotoSerifTamil Italic VariableFont_wdth,wght
-NotoSansTamil_ExtraCondensed Bold
-akshar
-NotoSerifTamil VariableFont_wdth,wght
-NotoSerifTamil_Condensed Regular
-TMOTKMB_Ship.TTF: GIST\ TMOTKamal:style=Bold
-NotoSerifTamil VariableFont_wdth,wght
-Nirmala
-TAU_BARN.TTF: TAU_Elango_Barathi:style=Regular
-TAU_MULN.TTF: TAU_Elango_Mullai:style=Regular
-TAU_Elango_Rewathy.TTF: TAU_Elango_Rewathy:style=Regular
-TAU Barathi BI
-Catamaran VariableFont_wght
-MuktaMalar Light
-TAU_THEN.TTF: TAU_Elango_Themmangu:style=Regular
-ArimaMadurai Medium
-TAU Barathi B
-TAMUni Tamil042
-TAU Kambar B
-TAU_CHEN.TTF: TAU_Elango_Cheran:style=Regular
-ArimaMadurai Light
-NotoSansTamil_SemiCondensed Light
-NotoSerifTamil_ExtraCondensed BlackItalic
-NotoSerifTamil LightItalic
-KarlaTamilInclined Regular
-TAU   kuruinji
-NotoSerifTamil_Condensed BoldItalic
-rrjanatamil
-NotoSerifTamil_SemiCondensed Light
-TMOTCNBI_Ship.TTF: GIST\ TMOTChandra:style=BoldItalic
-NotoSansTamil VariableFont_wdth,wght
-NotoSerifTamil_Condensed LightItalic
-Lohit Tamil Classical
-NotoSerifTamil_ExtraCondensed LightItalic
-TAU_VAIN.TTF: TAU_Elango_Vairam:style=Regular
-NotoSerifTamil_Condensed BlackItalic
-NotoSerifTamil ThinItalic
-NotoSerifTamil ExtraLightItalic
-NotoSerifTamil_Condensed Thin
-NotoSerifTamil_ExtraCondensed SemiBoldItalic
-ArimaMadurai ExtraBold
-TMOTPTB_Ship.TTF: GIST\ TMOTPattinathar:style=Bold
-NotoSerifTamil VariableFont_wdth,wght
-TAU Kaveri B
-NotoSansTamil_SemiCondensed Black
-TMOTKMN_Ship.TTF: GIST\ TMOTKamal:style=Normal
-NotoSerifTamil MediumItalic
-NotoSerifTamil VariableFont_wdth,wght
-NotoSerifTamil_SemiCondensed SemiBoldItalic
-NotoSerifTamil Italic VariableFont_wdth,wght
+ArimaMadurai-Black.ttf
+ArimaMadurai-Bold.ttf
+ArimaMadurai-ExtraBold.ttf
+ArimaMadurai-ExtraLight.ttf
+ArimaMadurai-Light.ttf
+ArimaMadurai-Medium.ttf
+ArimaMadurai-Regular.ttf
+ArimaMadurai-Thin.ttf
+BalooThambi2-Bold.ttf
+BalooThambi2-ExtraBold.ttf
+BalooThambi2-Medium.ttf
+BalooThambi2-Regular.ttf
+BalooThambi2-SemiBold.ttf
+Catamaran-Black.ttf
+Catamaran-Bold.ttf
+Catamaran-ExtraBold.ttf
+Catamaran-ExtraLight.ttf
+Catamaran-Light.ttf
+Catamaran-Medium.ttf
+Catamaran-Regular.ttf
+Catamaran-SemiBold.ttf
+Catamaran-Thin.ttf
+Catamaran-VariableFont_wght.ttf
+Coiny-Regular.ttf
+HindMadurai-Bold.ttf
+HindMadurai-Light.ttf
+HindMadurai-Medium.ttf
+HindMadurai-Regular.ttf
+HindMadurai-SemiBold.ttf
+Kavivanar-Regular.ttf
+MeeraInimai-Regular.ttf
+MuktaMalar-Bold.ttf
+MuktaMalar-ExtraBold.ttf
+MuktaMalar-ExtraLight.ttf
+MuktaMalar-Light.ttf
+MuktaMalar-Medium.ttf
+MuktaMalar-Regular.ttf
+MuktaMalar-SemiBold.ttf
+NotoSansTamil-Black.ttf
+NotoSansTamil-Bold.ttf
+NotoSansTamil_Condensed-Black.ttf
+NotoSansTamil_Condensed-Bold.ttf
+NotoSansTamil_Condensed-ExtraBold.ttf
+NotoSansTamil_Condensed-ExtraLight.ttf
+NotoSansTamil_Condensed-Light.ttf
+NotoSansTamil_Condensed-Medium.ttf
+NotoSansTamil_Condensed-Regular.ttf
+NotoSansTamil_Condensed-SemiBold.ttf
+NotoSansTamil_Condensed-Thin.ttf
+NotoSansTamil-ExtraBold.ttf
+NotoSansTamil_ExtraCondensed-Black.ttf
+NotoSansTamil_ExtraCondensed-Bold.ttf
+NotoSansTamil_ExtraCondensed-ExtraBold.ttf
+NotoSansTamil_ExtraCondensed-ExtraLight.ttf
+NotoSansTamil_ExtraCondensed-Light.ttf
+NotoSansTamil_ExtraCondensed-Medium.ttf
+NotoSansTamil_ExtraCondensed-Regular.ttf
+NotoSansTamil_ExtraCondensed-SemiBold.ttf
+NotoSansTamil_ExtraCondensed-Thin.ttf
+NotoSansTamil-ExtraLight.ttf
+NotoSansTamil-Light.ttf
+NotoSansTamil-Medium.ttf
+NotoSansTamil-Regular.ttf
+NotoSansTamil-SemiBold.ttf
+NotoSansTamil_SemiCondensed-Black.ttf
+NotoSansTamil_SemiCondensed-Bold.ttf
+NotoSansTamil_SemiCondensed-ExtraBold.ttf
+NotoSansTamil_SemiCondensed-ExtraLight.ttf
+NotoSansTamil_SemiCondensed-Light.ttf
+NotoSansTamil_SemiCondensed-Medium.ttf
+NotoSansTamil_SemiCondensed-Regular.ttf
+NotoSansTamil_SemiCondensed-SemiBold.ttf
+NotoSansTamil_SemiCondensed-Thin.ttf
+NotoSansTamil-Thin.ttf
+NotoSansTamil-VariableFont_wdth,wght.ttf
+NotoSerifTamil-BlackItalic.ttf
+NotoSerifTamil-Black.ttf
+NotoSerifTamil-BoldItalic.ttf
+NotoSerifTamil-Bold.ttf
+NotoSerifTamil_Condensed-BlackItalic.ttf
+NotoSerifTamil_Condensed-Black.ttf
+NotoSerifTamil_Condensed-BoldItalic.ttf
+NotoSerifTamil_Condensed-Bold.ttf
+NotoSerifTamil_Condensed-ExtraBoldItalic.ttf
+NotoSerifTamil_Condensed-ExtraBold.ttf
+NotoSerifTamil_Condensed-ExtraLightItalic.ttf
+NotoSerifTamil_Condensed-ExtraLight.ttf
+NotoSerifTamil_Condensed-Italic.ttf
+NotoSerifTamil_Condensed-LightItalic.ttf
+NotoSerifTamil_Condensed-Light.ttf
+NotoSerifTamil_Condensed-MediumItalic.ttf
+NotoSerifTamil_Condensed-Medium.ttf
+NotoSerifTamil_Condensed-Regular.ttf
+NotoSerifTamil_Condensed-SemiBoldItalic.ttf
+NotoSerifTamil_Condensed-SemiBold.ttf
+NotoSerifTamil_Condensed-ThinItalic.ttf
+NotoSerifTamil_Condensed-Thin.ttf
+NotoSerifTamil-ExtraBoldItalic.ttf
+NotoSerifTamil-ExtraBold.ttf
+NotoSerifTamil_ExtraCondensed-BlackItalic.ttf
+NotoSerifTamil_ExtraCondensed-Black.ttf
+NotoSerifTamil_ExtraCondensed-BoldItalic.ttf
+NotoSerifTamil_ExtraCondensed-Bold.ttf
+NotoSerifTamil_ExtraCondensed-ExtraBoldItalic.ttf
+NotoSerifTamil_ExtraCondensed-ExtraBold.ttf
+NotoSerifTamil_ExtraCondensed-ExtraLightItalic.ttf
+NotoSerifTamil_ExtraCondensed-ExtraLight.ttf
+NotoSerifTamil_ExtraCondensed-Italic.ttf
+NotoSerifTamil_ExtraCondensed-LightItalic.ttf
+NotoSerifTamil_ExtraCondensed-Light.ttf
+NotoSerifTamil_ExtraCondensed-MediumItalic.ttf
+NotoSerifTamil_ExtraCondensed-Medium.ttf
+NotoSerifTamil_ExtraCondensed-Regular.ttf
+NotoSerifTamil_ExtraCondensed-SemiBoldItalic.ttf
+NotoSerifTamil_ExtraCondensed-SemiBold.ttf
+NotoSerifTamil_ExtraCondensed-ThinItalic.ttf
+NotoSerifTamil_ExtraCondensed-Thin.ttf
+NotoSerifTamil-ExtraLightItalic.ttf
+NotoSerifTamil-ExtraLight.ttf
+NotoSerifTamil-Italic.ttf
+NotoSerifTamil-Italic-VariableFont_wdth,wght.ttf
+NotoSerifTamil-LightItalic.ttf
+NotoSerifTamil-Light.ttf
+NotoSerifTamil-MediumItalic.ttf
+NotoSerifTamil-Medium.ttf
+NotoSerifTamil-Regular.ttf
+NotoSerifTamil-SemiBoldItalic.ttf
+NotoSerifTamil-SemiBold.ttf
+NotoSerifTamil_SemiCondensed-BlackItalic.ttf
+NotoSerifTamil_SemiCondensed-Black.ttf
+NotoSerifTamil_SemiCondensed-BoldItalic.ttf
+NotoSerifTamil_SemiCondensed-Bold.ttf
+NotoSerifTamil_SemiCondensed-ExtraBoldItalic.ttf
+NotoSerifTamil_SemiCondensed-ExtraBold.ttf
+NotoSerifTamil_SemiCondensed-ExtraLightItalic.ttf
+NotoSerifTamil_SemiCondensed-ExtraLight.ttf
+NotoSerifTamil_SemiCondensed-Italic.ttf
+NotoSerifTamil_SemiCondensed-LightItalic.ttf
+NotoSerifTamil_SemiCondensed-Light.ttf
+NotoSerifTamil_SemiCondensed-MediumItalic.ttf
+NotoSerifTamil_SemiCondensed-Medium.ttf
+NotoSerifTamil_SemiCondensed-Regular.ttf
+NotoSerifTamil_SemiCondensed-SemiBoldItalic.ttf
+NotoSerifTamil_SemiCondensed-SemiBold.ttf
+NotoSerifTamil_SemiCondensed-ThinItalic.ttf
+NotoSerifTamil_SemiCondensed-Thin.ttf
+NotoSerifTamil-ThinItalic.ttf
+NotoSerifTamil-Thin.ttf
+NotoSerifTamil-VariableFont_wdth,wght.ttf
+Pavanam-Regular.ttf

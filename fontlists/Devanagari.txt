@@ -1,380 +1,260 @@
-EkMukta Bold
-Khula SemiBold
-Poppins Italic
-Kadwa Regular
-Khand SemiLight
-NotoSerifDevanagari ExtraLight
-NotoSerifDevanagari VariableFont_wdth,wght
-NotoSerifDevanagari VariableFont_wdth,wght
-GIST KOK DVOTVinit_N_Ship
-NotoSerifDevanagari VariableFont_wdth,wght
-NotoSerifDevanagari Bold
-Kalam Light
-NotoSerifDevanagari Thin
-NotoSerifDevanagari VariableFont_wdth,wght
-Palanquin ExtraLight
-chandas1 2
-Martel Heavy
-Karma Light
-Khula Regular
-NotoSerifDevanagari VariableFont_wdth,wght
-InknutAntiqua Regular
-PalanquinDark SemiBold
-IBMPlexSansDevanagari ExtraLight
-PragatiNarrow Bold
-Kokila
-MartelSans ExtraBold
-PalanquinDark Bold
-NotoSerifDevanagari_SemiCondensed Regular
-Mukta Light
-Halant Regular
-Poppins BlackItalic
-MAIOTDhruv_N_Ship
-Amita Regular
-Sarai_07
-NotoSans BoldItalic
-NotoSerifDevanagari VariableFont_wdth,wght
-Sarai
-Biryani Regular
-BRXOTDhruv_N_Ship
-NotoSerifDevanagari VariableFont_wdth,wght
-GIST SAT DVOTDhruv_N_Ship
-GISTOT BRXVinit
-Yantramanav Bold
-Glegoo Bold
-Eczar Regular
-NotoSerifDevanagari VariableFont_wdth,wght
-PalanquinDark Medium
-Khand SemiBold
-Bhavuka Regular
-Mukta Regular
-Cambay Regular
-SakalBharati Normal
-NotoSerifDevanagari VariableFont_wdth,wght
-Biryani ExtraLight
-NotoSerifDevanagari_Condensed ExtraLight
-CDACSRNT.TTF: CDAC\ GISTSurekh:style=Normal
-NotoSerifDevanagari VariableFont_wdth,wght
-Poppins Black
-Khand Light
-NotoSerifDevanagari VariableFont_wdth,wght
-EkMukta ExtraBold
-Khula Light
-GIST KAS_DVOTVinit_N_Ship
-Halant Bold
-lohit_mr
-Aparajita
-Karma Bold
-NotoSerifDevanagari_Condensed Bold
-VesperLibre Heavy
-Palanquin Thin
-lohit_hi
-IBMPlexSansDevanagari SemiBold
-lohit_sd
-Martel Bold
-GIST SND DVOTVinit
-CDACOTYGN.TTF: CDAC\ GISTYogesh:style=Normal
-Poppins LightItalic
-NotoSerifDevanagari VariableFont_wdth,wght
-SDOTDhruv N_Ship
-Poppins BoldItalic
-NotoSerifDevanagari VariableFont_wdth,wght
-EkMukta Regular
-InknutAntiqua SemiBold
-NotoSerifDevanagari_Condensed ExtraBold
-Yantramanav Black
-aparajbi
-GIST SAT DVOTVinit_N_Ship
-Lohit Devanagari
-Sarpanch Bold
-NotoSerifDevanagari_ExtraCondensed ExtraLight
-Teko Light
-NotoSerifDevanagari VariableFont_wdth,wght
-NotoSerifDevanagari_SemiCondensed ExtraLight
-Sura Regular
-Hind Light
-NotoSerifDevanagari SemiBold
-Tillana Regular
-Amiko Regular
-Martel SemiBold
-Karma Medium
-NotoSerifDevanagari_SemiCondensed ExtraBold
-NotoSerifDevanagari_ExtraCondensed Black
-NotoSerifDevanagari VariableFont_wdth,wght
-kokilai
-RhodiumLibre Regular
-Sahitya Regular
-Yantramanav Light
-NotoSerifDevanagari Light
-Gurumaa 1.50
-Tillana SemiBold
-MAIOTVinit_N_Ship
-Varta SemiBold
-Hind Bold
-GIST DVOTMohini
-GIST DGROTDhruv
-NotoSerifDevanagari VariableFont_wdth,wght
-NotoSansDevanagari ExtraBold
-Amiko Bold
-NotoSerifDevanagari VariableFont_wdth,wght
-Mukta ExtraLight
-Poppins Light
-IBMPlexSansDevanagari Regular
-YatraOne Regular
-Teko Bold
-Yantramanav Medium
-Halant SemiBold
-Aparajita_Italic
-BRXOTVinit_N_Ship
-NotoSerifDevanagari VariableFont_wdth,wght
-Sarala Regular
-Mukta Bold
-NotoSerifDevanagari_SemiCondensed Bold
-Sarpanch ExtraBold
-NotoSerifDevanagari VariableFont_wdth,wght
-Halant Medium
-Poppins ThinItalic
-Martel Regular
-MartelSans Light
-Mukta ExtraBold
-Biryani ExtraBold
-IBMPlexSansDevanagari Bold
-NotoSerifDevanagari Black
-VesperLibre Bold
-NotoSerifDevanagari VariableFont_wdth,wght
-kokilab
-Martel Black
-Cambay BoldItalic
-aparaj
-Hind Medium
-lohit_ne
-Poppins MediumItalic
-Karma Regular
-Khula Bold
-NotoSerifDevanagari_ExtraCondensed Light
-GIST KOK DVOTVinit
-MartelSans Regular
-NEPOTVinit_N_Ship
-aparajb
-NotoSerifDevanagari_ExtraCondensed ExtraBold
-NotoSerifDevanagari VariableFont_wdth,wght
-Poppins ExtraLight
-Sitara Bold
-Poppins ExtraLightItalic
-Amiko SemiBold
-Khand Regular
-IBMPlexSansDevanagari Thin
-Dinah Regular
-Eczar SemiBold
-Sitara Regular
-Teko Regular
-GIST SND DVOTDhruv_N_Ship
-NotoSerifDevanagari VariableFont_wdth,wght
-Baloo2 Regular
-IBMPlexSansDevanagari Light
-Ranga Regular
-MartelSans SemiBold
-Sitara Italic
-Poppins Thin
-Modak Regular
-lohit_ks
-MartelSans Bold
-NotoSerifDevanagari_SemiCondensed SemiBold
-Biryani Bold
-EkMukta SemiBold
-DGROTDhruv_N_Ship
-Chandas
-Poppins SemiBoldItalic
-VesperLibre Medium
-NotoSansDevanagari Light
-Baloo2 SemiBold
-NotoSerifDevanagari VariableFont_wdth,wght
-Martel Light
-NotoSansDevanagari Medium
-MartelSans Black
-Sumana Bold
-SakalBharati Normal_Ship
-NotoSans Italic
-Baloo Regular
-Sarpanch Regular
-NotoSerifDevanagari VariableFont_wdth,wght
-Teko Medium
-Jaldi Regular
-Ranga Bold
-SDOTVinit N_Ship
-NotoSerifDevanagari Regular
-Biryani Light
-EkMukta Medium
-NotoSerifDevanagari VariableFont_wdth,wght
-Gurumaa 2.04
-Samyak Devanagari
-Jaldi Bold
-Palanquin SemiBold
-NotoSerifDevanagari VariableFont_wdth,wght
-Gotu Regular
-Poppins Medium
-Sahitya Bold
-NotoSans Regular
-Biryani SemiBold
-Yantramanav Thin
-Baloo2 ExtraBold
-Halant Light
-Sumana Regular
-Tillana Medium
-NotoSerifDevanagari_ExtraCondensed Medium
-NotoSerifDevanagari_SemiCondensed Light
-Laila Light
-Laila Regular
-NotoSerifDevanagari_ExtraCondensed Regular
-lohit_kok
-Kurale Regular
-aparaji
-NotoSerifDevanagari VariableFont_wdth,wght
-Samanata
-Rajdhani Medium
-NotoSansDevanagari Regular
-Sarpanch Black
-Biryani Black
-Khand Black
-utsaahbi
-Sitara BoldItalic
-utsaahi
-Khand Bold
-DGROTVinit_N_Ship
-Martel DemiBold
-Sura Bold
-Dekko Regular
-Sanskrit2003
-NotoSerifDevanagari VariableFont_wdth,wght
-NotoSerifDevanagari Medium
-Eczar Medium
-Poppins Regular
-NotoSerifDevanagari VariableFont_wdth,wght
-NotoSerifDevanagari_SemiCondensed Thin
-Amita Bold
-NotoSansDevanagari Black
-Asar Regular
-Palanquin Bold
-PalanquinDark Regular
-NotoSerifDevanagari VariableFont_wdth,wght
-NotoSerifDevanagari VariableFont_wdth,wght
-lohit_mai
-Varta Regular
-Rajdhani SemiBold
-Sahadeva
-Mukta Medium
-NotoSerifDevanagari_ExtraCondensed SemiBold
-Baloo2 Bold
-NotoSansDevanagari ExtraLight
-NotoSerifDevanagari_Condensed Regular
-Varta Bold
-Hind SemiBold
-CDACOTYGB.TTF: CDAC\ GISTYogesh:style=Bold
-NotoSerifDevanagari_SemiCondensed Medium
-Yantramanav Regular
-IBMPlexSansDevanagari Medium
-InknutAntiqua Medium
-NotoSerifDevanagari VariableFont_wdth,wght
-Laila Bold
-NotoSans Bold
-Cambay Bold
-InknutAntiqua Bold
-Poppins ExtraBoldItalic
-NotoSerifDevanagari_SemiCondensed Black
-Akshar Unicode
-GIST DVOTKishor.TTF: GIST\ DVOTKishor:style=Normal
-Sarpanch Medium
-NotoSerifDevanagari_ExtraCondensed Thin
-Arya Bold
-Mukta SemiBold
-NotoSerifDevanagari_Condensed Medium
-MAIOTVinit
-NotoSerifDevanagari VariableFont_wdth,wght
-gargi
-GIST SND DVOTVinit_N_Ship
-Sanskrit_text
-Nirmala
-NotoSerifDevanagari_Condensed Thin
-Teko SemiBold
-InknutAntiqua Light
-Karma SemiBold
-kokilabi
-Tillana ExtraBold
-MROTVinitN_Ship
-Martel UltraLight
-RozhaOne Regular
-NEPOTDhruv_N_Ship
-Rajdhani Light
-DVOTMohiniN_ship
-Laila SemiBold
-PragatiNarrow Regular
-Arya Regular
-Sarala Bold
-NotoSerifDevanagari_Condensed Black
-Kadwa Bold
-Khand ExtraBold
-VesperLibre Black
-EkMukta Light
-Khula ExtraBold
-Hind Regular
-GIST MROTVinitN
-Poppins SemiBold
-SHREE DV0726 OT.TTF: SHREE\ DV0726\ OT:style=Regular
-akshar
-Glegoo Regular
-Eczar ExtraBold
-Baloo2 Medium
-EkMukta ExtraLight
-VesperLibre Regular
-NotoSerifDevanagari ExtraBold
-Khand Medium
-NotoSerifDevanagari VariableFont_wdth,wght
-Rajdhani Bold
-Laila Medium
-Aparajita_Bold
-GIST KOK DVOTDhruv_N_Ship
-DGROTVinit
-Palanquin Light
-Khand ExtraLight
-Cambay Italic
-Aparajita_Bolditalic
-Poppins ExtraBold
-Dinah Bold
-Kalam Regular
-NotoSerifDevanagari VariableFont_wdth,wght
-Lohit Marathi
-NotoSerifDevanagari_ExtraCondensed Bold
-Eczar Bold
-NotoSerifDevanagari_Condensed SemiBold
-NotoSansDevanagari Bold
-DVOTKishorN_Ship.TTF: GIST\ DVOTKishor:style=Normal
-GIST SDOTVinit
-Varta Light
-InknutAntiqua ExtraBold
-utsaahb
-nakula
-MROTDhruvN_Ship
-NotoSansDevanagari Thin
-NotoSansDevanagari SemiBold
-Kalam Bold
-MartelSans ExtraLight
-Martel ExtraLight
-Palanquin Regular
-kokila
-Siddhanta
-Tillana Bold
-InknutAntiqua Black
-Palanquin Medium
-GIST BRXOTVinit
-NotoSerifDevanagari VariableFont_wdth,wght
-CDACYGIT.TTF: CDAC\ GISTYogesh:style=Italic
-NotoSerifDevanagari VariableFont_wdth,wght
-GISTOT NEPVinit
-Poppins Bold
-GIST KAS_DVOTDhruv_N_Ship.TTF: GIST\ KAS\ DVOTDhruv:style=Normal
-Rajdhani Regular
-GIST SAT DVOTVinit
-utsaah
-Sarpanch SemiBold
-NotoSerifDevanagari_Condensed Light
-Martel ExtraBold
+Akshar Unicode.ttf
+Amita-Bold.ttf
+Amita-Regular.ttf
+Aparajita.ttf
+Aparajita_Bold.ttf
+Aparajita_Bolditalic.ttf
+Aparajita_Italic.ttf
+Asar-Regular.ttf
+BRXOTDhruv_N_Ship.ttf
+BRXOTVinit_N_Ship.ttf
+Baloo-Regular.ttf
+Baloo2-Bold.ttf
+Baloo2-ExtraBold.ttf
+Baloo2-Medium.ttf
+Baloo2-Regular.ttf
+Baloo2-SemiBold.ttf
+Bhavuka-Regular.ttf
+CDACOTYGB.TTF
+CDACOTYGN.TTF
+CDACSRNT.TTF
+CDACYGIT.TTF
+Cambay-Bold.ttf
+Cambay-BoldItalic.ttf
+Cambay-Italic.ttf
+Cambay-Regular.ttf
+Chandas.ttf
+DGROTDhruv_N_Ship.ttf
+DGROTVinit.ttf
+DGROTVinit_N_Ship.ttf
+DVOTKishorN_Ship.TTF
+DVOTMohiniN_ship.ttf
+Eczar-Bold.ttf
+Eczar-ExtraBold.ttf
+Eczar-Medium.ttf
+Eczar-Regular.ttf
+Eczar-SemiBold.ttf
+EkMukta-Bold.ttf
+EkMukta-ExtraBold.ttf
+EkMukta-ExtraLight.ttf
+EkMukta-Light.ttf
+EkMukta-Medium.ttf
+EkMukta-Regular.ttf
+EkMukta-SemiBold.ttf
+GIST-BRXOTVinit.ttf
+GIST-DGROTDhruv.ttf
+GIST-DVOTKishor.TTF
+GIST-DVOTMohini.ttf
+GIST-KAS_DVOTDhruv_N_Ship.TTF
+GIST-KAS_DVOTVinit_N_Ship.ttf
+GIST-KOK-DVOTDhruv_N_Ship.ttf
+GIST-KOK-DVOTVinit.ttf
+GIST-KOK-DVOTVinit_N_Ship.ttf
+GIST-MROTVinitN.ttf
+GIST-SAT-DVOTDhruv_N_Ship.ttf
+GIST-SAT-DVOTVinit.ttf
+GIST-SAT-DVOTVinit_N_Ship.ttf
+GIST-SDOTVinit.ttf
+GIST-SND-DVOTDhruv_N_Ship.ttf
+GIST-SND-DVOTVinit.ttf
+GIST-SND-DVOTVinit_N_Ship.ttf
+GISTOT-BRXVinit.ttf
+GISTOT-NEPVinit.ttf
+Glegoo-Bold.ttf
+Glegoo-Regular.ttf
+Gotu-Regular.ttf
+Gurumaa-1.50.ttf
+Gurumaa-2.04.ttf
+Halant-Bold.ttf
+Halant-Light.ttf
+Halant-Medium.ttf
+Halant-Regular.ttf
+Halant-SemiBold.ttf
+IBMPlexSansDevanagari-Bold.ttf
+IBMPlexSansDevanagari-ExtraLight.ttf
+IBMPlexSansDevanagari-Light.ttf
+IBMPlexSansDevanagari-Medium.ttf
+IBMPlexSansDevanagari-Regular.ttf
+IBMPlexSansDevanagari-SemiBold.ttf
+IBMPlexSansDevanagari-Thin.ttf
+Jaldi-Bold.ttf
+Jaldi-Regular.ttf
+Kadwa-Bold.ttf
+Kadwa-Regular.ttf
+Kalam-Bold.ttf
+Kalam-Light.ttf
+Kalam-Regular.ttf
+Karma-Bold.ttf
+Karma-Light.ttf
+Karma-Medium.ttf
+Karma-Regular.ttf
+Karma-SemiBold.ttf
+Khula-Bold.ttf
+Khula-ExtraBold.ttf
+Khula-Light.ttf
+Khula-Regular.ttf
+Khula-SemiBold.ttf
+Kokila.ttf
+Laila-Bold.ttf
+Laila-Light.ttf
+Laila-Medium.ttf
+Laila-Regular.ttf
+Laila-SemiBold.ttf
+Laila-Semibold.ttf
+Lohit-Devanagari.ttf
+Lohit-Marathi.ttf
+MAIOTDhruv_N_Ship.ttf
+MAIOTVinit.ttf
+MAIOTVinit_N_Ship.ttf
+MROTDhruvN_Ship.ttf
+MROTVinitN_Ship.ttf
+Martel-Black.ttf
+Martel-Bold.ttf
+Martel-DemiBold.ttf
+Martel-ExtraBold.ttf
+Martel-ExtraLight.ttf
+Martel-Heavy.ttf
+Martel-Light.ttf
+Martel-Regular.ttf
+Martel-SemiBold.ttf
+Martel-UltraLight.ttf
+MartelSans-Black.ttf
+MartelSans-Bold.ttf
+MartelSans-ExtraBold.ttf
+MartelSans-ExtraLight.ttf
+MartelSans-Light.ttf
+MartelSans-Regular.ttf
+MartelSans-SemiBold.ttf
+Mukta-Bold.ttf
+Mukta-ExtraBold.ttf
+Mukta-ExtraLight.ttf
+Mukta-Light.ttf
+Mukta-Medium.ttf
+Mukta-Regular.ttf
+Mukta-SemiBold.ttf
+NEPOTDhruv_N_Ship.ttf
+NEPOTVinit_N_Ship.ttf
+Nirmala.ttf
+NotoSans-Bold.ttf
+NotoSans-Regular.ttf
+NotoSansDevanagari-Black.ttf
+NotoSansDevanagari-Bold.ttf
+NotoSansDevanagari-ExtraBold.ttf
+NotoSansDevanagari-ExtraLight.ttf
+NotoSansDevanagari-Light.ttf
+NotoSansDevanagari-Medium.ttf
+NotoSansDevanagari-Regular.ttf
+NotoSansDevanagari-SemiBold.ttf
+NotoSansDevanagari-Thin.ttf
+NotoSerifDevanagari-Black.ttf
+NotoSerifDevanagari-Bold.ttf
+NotoSerifDevanagari-ExtraBold.ttf
+NotoSerifDevanagari-ExtraLight.ttf
+NotoSerifDevanagari-Light.ttf
+NotoSerifDevanagari-Medium.ttf
+NotoSerifDevanagari-Regular.ttf
+NotoSerifDevanagari-SemiBold.ttf
+NotoSerifDevanagari-Thin.ttf
+NotoSerifDevanagari-VariableFont_wdth,wght.ttf
+NotoSerifDevanagari_Condensed-Black.ttf
+NotoSerifDevanagari_Condensed-Bold.ttf
+NotoSerifDevanagari_Condensed-ExtraBold.ttf
+NotoSerifDevanagari_Condensed-ExtraLight.ttf
+NotoSerifDevanagari_Condensed-Light.ttf
+NotoSerifDevanagari_Condensed-Medium.ttf
+NotoSerifDevanagari_Condensed-Regular.ttf
+NotoSerifDevanagari_Condensed-SemiBold.ttf
+NotoSerifDevanagari_Condensed-Thin.ttf
+NotoSerifDevanagari_ExtraCondensed-Black.ttf
+NotoSerifDevanagari_ExtraCondensed-Bold.ttf
+NotoSerifDevanagari_ExtraCondensed-ExtraBold.ttf
+NotoSerifDevanagari_ExtraCondensed-ExtraLight.ttf
+NotoSerifDevanagari_ExtraCondensed-Light.ttf
+NotoSerifDevanagari_ExtraCondensed-Medium.ttf
+NotoSerifDevanagari_ExtraCondensed-Regular.ttf
+NotoSerifDevanagari_ExtraCondensed-SemiBold.ttf
+NotoSerifDevanagari_ExtraCondensed-Thin.ttf
+NotoSerifDevanagari_SemiCondensed-Black.ttf
+NotoSerifDevanagari_SemiCondensed-Bold.ttf
+NotoSerifDevanagari_SemiCondensed-ExtraBold.ttf
+NotoSerifDevanagari_SemiCondensed-ExtraLight.ttf
+NotoSerifDevanagari_SemiCondensed-Light.ttf
+NotoSerifDevanagari_SemiCondensed-Medium.ttf
+NotoSerifDevanagari_SemiCondensed-Regular.ttf
+NotoSerifDevanagari_SemiCondensed-SemiBold.ttf
+NotoSerifDevanagari_SemiCondensed-Thin.ttf
+Palanquin-Bold.ttf
+Palanquin-ExtraLight.ttf
+Palanquin-Light.ttf
+Palanquin-Medium.ttf
+Palanquin-Regular.ttf
+Palanquin-SemiBold.ttf
+Palanquin-Thin.ttf
+PalanquinDark-Bold.ttf
+PalanquinDark-Medium.ttf
+PalanquinDark-Regular.ttf
+PalanquinDark-SemiBold.ttf
+PragatiNarrow-Bold.ttf
+PragatiNarrow-Regular.ttf
+Ranga-Bold.ttf
+Ranga-Regular.ttf
+RhodiumLibre-Regular.ttf
+SDOTDhruv N_Ship.ttf
+SDOTVinit N_Ship.ttf
+SHREE-DV0726-OT.TTF
+Sahitya-Bold.ttf
+Sahitya-Regular.ttf
+SakalBharati Normal.ttf
+SakalBharati Normal_Ship.ttf
+Samyak-Devanagari.ttf
+Sanskrit2003.ttf
+Sanskrit_text.ttf
+Sarai.ttf
+Sarai_07.ttf
+Sarala-Bold.ttf
+Sarala-Regular.ttf
+Siddhanta.ttf
+Sitara-Bold.ttf
+Sitara-BoldItalic.ttf
+Sitara-Italic.ttf
+Sitara-Regular.ttf
+Sumana-Bold.ttf
+Sumana-Regular.ttf
+Sura-Bold.ttf
+Sura-Regular.ttf
+Tillana-Bold.ttf
+Tillana-ExtraBold.ttf
+Tillana-Medium.ttf
+Tillana-Regular.ttf
+Tillana-SemiBold.ttf
+VesperLibre-Black.ttf
+VesperLibre-Bold.ttf
+VesperLibre-Heavy.ttf
+VesperLibre-Medium.ttf
+VesperLibre-Regular.ttf
+Yantramanav-Black.ttf
+Yantramanav-Bold.ttf
+Yantramanav-Light.ttf
+Yantramanav-Medium.ttf
+Yantramanav-Regular.ttf
+Yantramanav-Thin.ttf
+YatraOne-Regular.ttf
+akshar.ttf
+aparaj.ttf
+aparajb.ttf
+aparajbi.ttf
+aparaji.ttf
+chandas1-2.ttf
+gargi.ttf
+kokila.ttf
+kokilab.ttf
+kokilabi.ttf
+kokilai.ttf
+lohit_hi.ttf
+lohit_kok.ttf
+lohit_ks.ttf
+lohit_mai.ttf
+lohit_mr.ttf
+lohit_ne.ttf
+lohit_sd.ttf
+nakula.ttf

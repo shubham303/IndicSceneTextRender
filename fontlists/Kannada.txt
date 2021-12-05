@@ -1,116 +1,54 @@
-NotoSerifKannada VariableFont_wght
-NotoSansKannada_ExtraCondensed Black
-NotoSerifKannada VariableFont_wght
-NotoSansKannada VariableFont_wdth,wght
-NotoSerifKannada VariableFont_wght
-NotoSerifKannada VariableFont_wght
-NotoSerifKannada VariableFont_wght
-NotoSerifKannada ExtraBold
-BalooTamma2 Bold
-NotoSansKannada VariableFont_wdth,wght
-NotoSansKannada ExtraLight
-NotoSerifKannada VariableFont_wght
-NotoSansKannada_Condensed ExtraLight
-SakalBharati Normal_Ship
-NotoSansKannada Medium
-NotoSansKannada VariableFont_wdth,wght
-BalooTamma2 SemiBold
-Akshar Unicode
-NotoSansKannada VariableFont_wdth,wght
-NotoSansKannada_ExtraCondensed Medium
-NotoSansKannada VariableFont_wdth,wght
-NotoSansKannada VariableFont_wdth,wght
-NotoSerifKannada SemiBold
-NotoSansKannada VariableFont_wdth,wght
-NotoSansKannada VariableFont_wdth,wght
-NotoSansKannada_Condensed SemiBold
-NotoSansKannada_Condensed Light
-NotoSansKannada VariableFont_wdth,wght
-NotoSansKannada VariableFont_wdth,wght
-NotoSansKannada VariableFont_wdth,wght
-NotoSansKannada_Condensed Black
-NotoSansKannada_ExtraCondensed SemiBold
-NotoSansKannada VariableFont_wdth,wght
-BalooTamma2 ExtraBold
-AkayaKanadaka Regular
-NotoSansKannada Bold
-Nirmala
-NotoSansKannada_SemiCondensed ExtraBold
-NotoSansKannada VariableFont_wdth,wght
-SakalBharati Normal
-NotoSansKannada ExtraBold
-NotoSerifKannada Black
-NotoSansKannada VariableFont_wdth,wght
-Gubbi
-NotoSerifKannada VariableFont_wght
-NotoSansKannada_SemiCondensed Medium
-NotoSansKannada VariableFont_wdth,wght
-HindMysuru SemiBold
-NotoSansKannada VariableFont_wdth,wght
-GIST KNOTPadmini
-NotoSansKannada_SemiCondensed Light
-NotoSansKannada VariableFont_wdth,wght
-NotoSansKannada VariableFont_wdth,wght
-NotoSansKannada Thin
-KNOTPadminiN_Ship
-NotoSansKannada_ExtraCondensed ExtraBold
-NotoSerifKannada Light
-NotoSansKannada VariableFont_wdth,wght
-NotoSansKannada VariableFont_wdth,wght
-NotoSansKannada_SemiCondensed Thin
-NotoSansKannada_SemiCondensed Regular
-NotoSerifKannada Regular
-NotoSansKannada_ExtraCondensed Bold
-Benne Regular
-NotoSansKannada_Condensed ExtraBold
-NotoSansKannada VariableFont_wdth,wght
-NotoSerifKannada Thin
-NotoSansKannada VariableFont_wdth,wght
-NotoSansKannada_SemiCondensed Black
-NotoSansKannada_Condensed Thin
-NotoSansKannada VariableFont_wdth,wght
-BalooTamma Regular
-NotoSansKannada VariableFont_wdth,wght
-NotoSansKannada_Condensed Bold
-NotoSerifKannada VariableFont_wght
-Navilu
-NotoSansKannada_ExtraCondensed Thin
-NotoSansKannada VariableFont_wdth,wght
-NotoSerifKannada ExtraLight
-KNOTJairajN_Ship
-akshar
-NotoSerifKannada Bold
-NotoSansKannada VariableFont_wdth,wght
-NotoSansKannada_Condensed Medium
-Lohit Kannada
-NotoSansKannada_SemiCondensed Bold
-NotoSansKannada_Condensed Regular
-NotoSansKannada Black
-NotoSansKannada_ExtraCondensed ExtraLight
-HindMysuru Light
-NotoSansKannada VariableFont_wdth,wght
-HindMysuru Bold
-NotoSansKannada_SemiCondensed ExtraLight
-NotoSansKannada Light
-HindMysuru Medium
-NotoSansKannada VariableFont_wdth,wght
-NotoSerifKannada VariableFont_wght
-HindMysuru Regular
-NotoSansKannada VariableFont_wdth,wght
-NotoSansKannada VariableFont_wdth,wght
-NotoSerifKannada Medium
-NotoSansKannada_ExtraCondensed Regular
-NotoSansKannada VariableFont_wdth,wght
-NotoSansKannada VariableFont_wdth,wght
-BalooTamma2 Regular
-NotoSansKannada_SemiCondensed SemiBold
-NotoSansKannada_ExtraCondensed Light
-BalooTamma2 Medium
-NotoSansKannada VariableFont_wdth,wght
-NotoSansKannada VariableFont_wdth,wght
-NotoSansKannada Regular
-NotoSansKannada VariableFont_wdth,wght
-NotoSansKannada VariableFont_wdth,wght
-NotoSerifKannada VariableFont_wght
-NotoSansKannada SemiBold
-NotoSansKannada VariableFont_wdth,wght
+AkayaKanadaka-Regular.ttf
+BalooTamma2-Bold.ttf
+BalooTamma2-ExtraBold.ttf
+BalooTamma2-Medium.ttf
+BalooTamma2-Regular.ttf
+BalooTamma2-SemiBold.ttf
+Benne-Regular.ttf
+NotoSansKannada-Black.ttf
+NotoSansKannada-Bold.ttf
+NotoSansKannada_Condensed-Black.ttf
+NotoSansKannada_Condensed-Bold.ttf
+NotoSansKannada_Condensed-ExtraBold.ttf
+NotoSansKannada_Condensed-ExtraLight.ttf
+NotoSansKannada_Condensed-Light.ttf
+NotoSansKannada_Condensed-Medium.ttf
+NotoSansKannada_Condensed-Regular.ttf
+NotoSansKannada_Condensed-SemiBold.ttf
+NotoSansKannada_Condensed-Thin.ttf
+NotoSansKannada-ExtraBold.ttf
+NotoSansKannada_ExtraCondensed-Black.ttf
+NotoSansKannada_ExtraCondensed-Bold.ttf
+NotoSansKannada_ExtraCondensed-ExtraBold.ttf
+NotoSansKannada_ExtraCondensed-ExtraLight.ttf
+NotoSansKannada_ExtraCondensed-Light.ttf
+NotoSansKannada_ExtraCondensed-Medium.ttf
+NotoSansKannada_ExtraCondensed-Regular.ttf
+NotoSansKannada_ExtraCondensed-SemiBold.ttf
+NotoSansKannada_ExtraCondensed-Thin.ttf
+NotoSansKannada-ExtraLight.ttf
+NotoSansKannada-Light.ttf
+NotoSansKannada-Medium.ttf
+NotoSansKannada-Regular.ttf
+NotoSansKannada-SemiBold.ttf
+NotoSansKannada_SemiCondensed-Black.ttf
+NotoSansKannada_SemiCondensed-Bold.ttf
+NotoSansKannada_SemiCondensed-ExtraBold.ttf
+NotoSansKannada_SemiCondensed-ExtraLight.ttf
+NotoSansKannada_SemiCondensed-Light.ttf
+NotoSansKannada_SemiCondensed-Medium.ttf
+NotoSansKannada_SemiCondensed-Regular.ttf
+NotoSansKannada_SemiCondensed-SemiBold.ttf
+NotoSansKannada_SemiCondensed-Thin.ttf
+NotoSansKannada-Thin.ttf
+NotoSansKannada-VariableFont_wdth,wght.ttf
+NotoSerifKannada-Black.ttf
+NotoSerifKannada-Bold.ttf
+NotoSerifKannada-ExtraBold.ttf
+NotoSerifKannada-ExtraLight.ttf
+NotoSerifKannada-Light.ttf
+NotoSerifKannada-Medium.ttf
+NotoSerifKannada-Regular.ttf
+NotoSerifKannada-SemiBold.ttf
+NotoSerifKannada-Thin.ttf
+NotoSerifKannada-VariableFont_wght.ttf

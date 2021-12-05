@@ -1,191 +1,60 @@
-NotoSansGurmukhi_ExtraCondensed SemiBold
-NotoSansGurmukhi VariableFont_wdth,wght
-NotoSansGurmukhi_ExtraCondensed ExtraBold
-AmbarKalmi
-Changa SemiBold
-NotoSansGurmukhi VariableFont_wdth,wght
-NotoSansGurmukhi VariableFont_wdth,wght
-NotoSansGurmukhi VariableFont_wdth,wght
-NotoSansGurmukhi VariableFont_wdth,wght
-Akaash Bold
-freemono
-Scheherazade Bold
-NotoSansGurmukhi VariableFont_wdth,wght
-ElMessiri Regular
-NotoSansGurmukhi VariableFont_wdth,wght
-AmbarNeon
-Nirmala
-BalooPaaji2 Regular
-PNOTAmarN_Ship
-NotoSerifGurmukhi VariableFont_wght
-NotoSansGurmukhi VariableFont_wdth,wght
-GIST UROTGhalib_N_Ship
-NotoSerifGurmukhi VariableFont_wght
-NotoSansGurmukhi Thin
-GIST UROTNabeel_N_Ship
-NotoSerifGurmukhi VariableFont_wght
-NotoSerifGurmukhi VariableFont_wght
-NotoSansGurmukhi VariableFont_wdth,wght
-Changa Regular
-MuktaMahee ExtraBold
-Oankaar
-ChatrikUni
-NotoSansGurmukhi_SemiCondensed Medium
-AnmolUniBaniHeavy
-NotoSansGurmukhi_SemiCondensed Bold
-Amiri Bold
-Langar Regular
-NotoSansGurmukhi_SemiCondensed ExtraLight
-Changa ExtraLight
-AnmolUni
-AmbarSlim
-NotoSerifGurmukhi ExtraBold
-AmbarRaised
-NotoSansGurmukhi VariableFont_wdth,wght
-BalooPaaji Regular
-NotoSansGurmukhi VariableFont_wdth,wght
-NotoSerifGurmukhi Medium
-NotoSansGurmukhi VariableFont_wdth,wght
-NotoSansGurmukhi_SemiCondensed Light
-NotoSansGurmukhi VariableFont_wdth,wght
-Cairo SemiBold
-NotoSerifGurmukhi Bold
-PNOTBaisakhiN_Ship
-NotoSansGurmukhi Regular
-AnmolUniBani
-ElMessiri Medium
-NotoSerifGurmukhi VariableFont_wght
-NotoSansGurmukhi VariableFont_wdth,wght
-NotoSerifGurmukhi VariableFont_wght
-MuktaMahee Medium
-NotoSansGurmukhi ExtraLight
-Mirza Bold
-NotoSerifGurmukhi VariableFont_wght
-Pak Nastaleeq (Beta Release)
-AmbarLight Bold
-NotoSansGurmukhi VariableFont_wdth,wght
-NotoSerifGurmukhi SemiBold
-NotoSerifGurmukhi VariableFont_wght
-AnmolUniHeavy
-NotoSansGurmukhi_Condensed Regular
-NotoSansGurmukhi Light
-NotoSansGurmukhi VariableFont_wdth,wght
-NotoSansGurmukhi_Condensed Thin
-AmbarNarrow
-MuktaMahee SemiBold
-raavi
-Amiri Regular
-Lemonada Bold
-GIST PNOTAmar
-Changa Light
-BalooPaaji2 ExtraBold
-NotoSansGurmukhi VariableFont_wdth,wght
-Mirza Regular
-Mothanna Bold
-SakalBharati Normal_Ship
-NotoSansGurmukhi_ExtraCondensed Regular
-Lemonada Light
-MuktaMahee Regular
-NotoSansGurmukhi_SemiCondensed Regular
-NotoSansGurmukhi VariableFont_wdth,wght
-AnmolUni Bold
-Saab
-Akaash
-NotoSansGurmukhi VariableFont_wdth,wght
-BalooPaaji2 Bold
-Amiri Slanted
-NotoSansGurmukhi VariableFont_wdth,wght
-NotoSansGurmukhi VariableFont_wdth,wght
-NotoSansGurmukhi_ExtraCondensed Black
-NotoSansGurmukhi VariableFont_wdth,wght
-NotoSansGurmukhi_SemiCondensed Black
-NotoSansGurmukhi VariableFont_wdth,wght
-NotoSansGurmukhi_Condensed ExtraBold
-NotoSansGurmukhi_SemiCondensed ExtraBold
-NotoSansGurmukhi VariableFont_wdth,wght
-NotoSansGurmukhi_Condensed Light
-NotoSansGurmukhi Black
-NotoSansGurmukhi VariableFont_wdth,wght
-Lohit Punjabi
-HindJalandhar SemiBold
-AmbarLight
-LateefRegOT
-Nastaleeq Like
-NotoSerifGurmukhi Light
-HindJalandhar Bold
-NotoSansGurmukhi VariableFont_wdth,wght
-NotoSansGurmukhi_ExtraCondensed Medium
-NotoSansGurmukhi_ExtraCondensed Light
-Mothanna
-NotoSansGurmukhi VariableFont_wdth,wght
-Scheherazade Regular
-NotoSansGurmukhi_Condensed Black
-NotoSansGurmukhi VariableFont_wdth,wght
-NotoSansGurmukhi_Condensed Medium
-Lemonada SemiBold
-BalooPaaji2 Medium
-NotoSansGurmukhi VariableFont_wdth,wght
-NotoSansGurmukhi VariableFont_wdth,wght
-NotoSerifGurmukhi VariableFont_wght
-Katibeh Regular
-GIST KAS PAOTMaqbool
-NotoSansGurmukhi_Condensed ExtraLight
-NotoSerifGurmukhi Black
-Cairo Regular
-HindJalandhar Regular
-NotoSansGurmukhi_SemiCondensed Thin
-Jameel Noori Nastaleeq
-Jomhuria Regular
-MuktaMahee ExtraLight
-NotoSansGurmukhi VariableFont_wdth,wght
-AmbarUbhri
-AmbarOutlined
-NotoSansGurmukhi VariableFont_wdth,wght
-Lalezar Regular
-NotoSansGurmukhi ExtraBold
-NotoSansGurmukhi_ExtraCondensed ExtraLight
-NotoSansGurmukhi Medium
-NotoSansGurmukhi VariableFont_wdth,wght
-NotoSansGurmukhi_ExtraCondensed Thin
-SakalBharati Normal
-MuktaMahee Light
-Amiri BoldSlanted
-GIST KAS PAOTMaqbool_N_Ship
-HindJalandhar Medium
-HindJalandhar Light
-NotoSansGurmukhi VariableFont_wdth,wght
-Changa ExtraBold
-Lemonada Regular
-NotoSansGurmukhi SemiBold
-Mothanna Bold Oblique
-NotoSansGurmukhi VariableFont_wdth,wght
-NotoSansGurmukhi_Condensed Bold
-GIST KAS PAOTHabba_N_Ship
-GIST UROTGhalib
-Gurmukhi UCSB Uni
-Changa Bold
-NotoSansGurmukhi VariableFont_wdth,wght
-NotoSerifGurmukhi Regular
-NotoSansGurmukhi_Condensed SemiBold
-BalooPaaji2 SemiBold
-Cairo Light
-NotoSansGurmukhi_SemiCondensed SemiBold
-NotoSerifGurmukhi VariableFont_wght
-Mirza Medium
-AmbarShadow
-ElMessiri SemiBold
-NotoSerifGurmukhi ExtraLight
-MuktaMahee Bold
-Changa Medium
-NotoSansGurmukhi_ExtraCondensed Bold
-NotoSerifGurmukhi Thin
-Cairo Bold
-AnmolUni Bold 
-Mothanna Oblique
-NotoSansGurmukhi VariableFont_wdth,wght
-NotoSansGurmukhi Bold
-Naqsh
-Cairo ExtraLight
-AnmolUniBani Bold
-Cairo Black
-ElMessiri Bold
+BalooPaaji2-Bold.ttf
+BalooPaaji2-ExtraBold.ttf
+BalooPaaji2-Medium.ttf
+BalooPaaji2-Regular.ttf
+BalooPaaji2-SemiBold.ttf
+Langar-Regular.ttf
+MuktaMahee-Bold.ttf
+MuktaMahee-ExtraBold.ttf
+MuktaMahee-ExtraLight.ttf
+MuktaMahee-Light.ttf
+MuktaMahee-Medium.ttf
+MuktaMahee-Regular.ttf
+MuktaMahee-SemiBold.ttf
+NotoSansGurmukhi-Black.ttf
+NotoSansGurmukhi-Bold.ttf
+NotoSansGurmukhi_Condensed-Black.ttf
+NotoSansGurmukhi_Condensed-Bold.ttf
+NotoSansGurmukhi_Condensed-ExtraBold.ttf
+NotoSansGurmukhi_Condensed-ExtraLight.ttf
+NotoSansGurmukhi_Condensed-Light.ttf
+NotoSansGurmukhi_Condensed-Medium.ttf
+NotoSansGurmukhi_Condensed-Regular.ttf
+NotoSansGurmukhi_Condensed-SemiBold.ttf
+NotoSansGurmukhi_Condensed-Thin.ttf
+NotoSansGurmukhi-ExtraBold.ttf
+NotoSansGurmukhi_ExtraCondensed-Black.ttf
+NotoSansGurmukhi_ExtraCondensed-Bold.ttf
+NotoSansGurmukhi_ExtraCondensed-ExtraBold.ttf
+NotoSansGurmukhi_ExtraCondensed-ExtraLight.ttf
+NotoSansGurmukhi_ExtraCondensed-Light.ttf
+NotoSansGurmukhi_ExtraCondensed-Medium.ttf
+NotoSansGurmukhi_ExtraCondensed-Regular.ttf
+NotoSansGurmukhi_ExtraCondensed-SemiBold.ttf
+NotoSansGurmukhi_ExtraCondensed-Thin.ttf
+NotoSansGurmukhi-ExtraLight.ttf
+NotoSansGurmukhi-Light.ttf
+NotoSansGurmukhi-Medium.ttf
+NotoSansGurmukhi-Regular.ttf
+NotoSansGurmukhi-SemiBold.ttf
+NotoSansGurmukhi_SemiCondensed-Black.ttf
+NotoSansGurmukhi_SemiCondensed-Bold.ttf
+NotoSansGurmukhi_SemiCondensed-ExtraBold.ttf
+NotoSansGurmukhi_SemiCondensed-ExtraLight.ttf
+NotoSansGurmukhi_SemiCondensed-Light.ttf
+NotoSansGurmukhi_SemiCondensed-Medium.ttf
+NotoSansGurmukhi_SemiCondensed-Regular.ttf
+NotoSansGurmukhi_SemiCondensed-SemiBold.ttf
+NotoSansGurmukhi_SemiCondensed-Thin.ttf
+NotoSansGurmukhi-Thin.ttf
+NotoSansGurmukhi-VariableFont_wdth,wght.ttf
+NotoSerifGurmukhi-Black.ttf
+NotoSerifGurmukhi-Bold.ttf
+NotoSerifGurmukhi-ExtraBold.ttf
+NotoSerifGurmukhi-ExtraLight.ttf
+NotoSerifGurmukhi-Light.ttf
+NotoSerifGurmukhi-Medium.ttf
+NotoSerifGurmukhi-Regular.ttf
+NotoSerifGurmukhi-SemiBold.ttf
+NotoSerifGurmukhi-Thin.ttf
+NotoSerifGurmukhi-VariableFont_wght.ttf

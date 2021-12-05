@@ -1,88 +1,48 @@
-Rasa Light
-NotoSerifGujarati VariableFont_wght
-NotoSansGujarati Bold
-NotoSerifGujarati Medium
-Rasa Italic VariableFont_wght
-NotoSerifGujarati VariableFont_wght
-NotoSansGujarati Thin
-NotoSansGujarati ExtraLight
-Nirmala
-Samyak Gujarati
-MuktaVaani SemiBold
-NotoSansGujarati Regular
-Shrikhand Regular
-Rasa Italic VariableFont_wght
-MuktaVaani Regular
-Lohit Gujarati
-NotoSerifGujarati VariableFont_wght
-SakalBharati Normal
-NotoSerifGujarati Regular
-Rasa VariableFont_wght
-GJOTKapila_N_Ship
-BalooBhai2 SemiBold
-Rasa SemiBoldItalic
-Rasa VariableFont_wght
-GJOTPiyushN_Ship.TTF: GIST\ GJOTPiyush:style=Normal
-SakalBharati Normal_Ship
-MuktaVaani ExtraBold
-shruti
-shrutib
-Farsan Regular
-BalooBhai2 Medium
-NotoSerifGujarati VariableFont_wght
-HindVadodara SemiBold
-NotoSerifGujarati Thin
-NotoSerifGujarati VariableFont_wght
-HindVadodara Medium
-Rekha
-NotoSerifGujarati VariableFont_wght
-MuktaVaani Medium
-BalooBhai2 Regular
-padmaa Bold.1.1
-Rasa Medium
-Mogra Regular
-MuktaVaani ExtraLight
-NotoSansGujarati Black
-Rasa Bold
-NotoSansGujarati ExtraBold
-Rasa Italic VariableFont_wght
-NotoSansGujarati Medium
-padmaa Medium 0.5
-NotoSerifGujarati VariableFont_wght
-GIST GJOTPiyush.TTF: GIST\ GJOTPiyush:style=Normal
-Rasa MediumItalic
-KumarOne Regular
-Rasa Italic VariableFont_wght
-NotoSerifGujarati ExtraLight
-BalooBhai2 ExtraBold
-Rasa Italic VariableFont_wght
-Rasa VariableFont_wght
-NotoSerifGujarati VariableFont_wght
-Rasa VariableFont_wght
-NotoSerifGujarati Light
-MuktaVaani Light
-Rasa SemiBold
-NotoSansGujarati Light
-NotoSerifGujarati SemiBold
-Rasa VariableFont_wght
-aakar medium
-BalooBhai2 Bold
-Rasa Italic VariableFont_wght
-Rasa Italic
-Rasa VariableFont_wght
-HindVadodara Light
-NotoSerifGujarati VariableFont_wght
-NotoSerifGujarati Bold
-NotoSansGujarati SemiBold
-NotoSerifGujarati Black
-HindVadodara Bold
-HindVadodara Regular
-padmaa
-Rasa BoldItalic
-Rasa LightItalic
-NotoSerifGujarati VariableFont_wght
-KumarOneOutline Regular
-NotoSerifGujarati ExtraBold
-MuktaVaani Bold
-Rasa Regular
-BalooBhai Regular
+BalooBhai2-Bold.ttf
+BalooBhai2-ExtraBold.ttf
+BalooBhai2-Medium.ttf
+BalooBhai2-Regular.ttf
+BalooBhai2-SemiBold.ttf
+Farsan-Regular.ttf
+Gidugu-Regular.ttf
+KumarOne-Regular.ttf
+Mogra-Regular.ttf
+MuktaVaani-Bold.ttf
+MuktaVaani-ExtraBold.ttf
+MuktaVaani-ExtraLight.ttf
+MuktaVaani-Light.ttf
+MuktaVaani-Medium.ttf
+MuktaVaani-Regular.ttf
+MuktaVaani-SemiBold.ttf
+NotoSansGujarati-Black.ttf
+NotoSansGujarati-Bold.ttf
+NotoSansGujarati-ExtraBold.ttf
+NotoSansGujarati-ExtraLight.ttf
+NotoSansGujarati-Light.ttf
+NotoSansGujarati-Medium.ttf
+NotoSansGujarati-Regular.ttf
+NotoSansGujarati-SemiBold.ttf
+NotoSansGujarati-Thin.ttf
+NotoSerifGujarati-Black.ttf
+NotoSerifGujarati-Bold.ttf
+NotoSerifGujarati-ExtraBold.ttf
+NotoSerifGujarati-ExtraLight.ttf
+NotoSerifGujarati-Light.ttf
+NotoSerifGujarati-Medium.ttf
+NotoSerifGujarati-Regular.ttf
+NotoSerifGujarati-SemiBold.ttf
+NotoSerifGujarati-Thin.ttf
+NotoSerifGujarati-VariableFont_wght.ttf
+Rasa-BoldItalic.ttf
+Rasa-Bold.ttf
+Rasa-Italic.ttf
+Rasa-Italic-VariableFont_wght.ttf
+Rasa-LightItalic.ttf
+Rasa-Light.ttf
+Rasa-MediumItalic.ttf
+Rasa-Medium.ttf
+Rasa-Regular.ttf
+Rasa-SemiBoldItalic.ttf
+Rasa-SemiBold.ttf
+Rasa-VariableFont_wght.ttf
+Shrikhand-Regular.ttf
