@@ -31,7 +31,7 @@ def writeCache(env, cache):
 			txn.put(k, v)
 
 
-def createDataset(inputPath, gtFile, outputPath, checkValid=True):
+def createDataset(inputPath, gtFile, outputPath, checkValid=False):
 	"""
 	Create LMDB dataset for training and evaluation.
 	ARGS:
@@ -52,7 +52,7 @@ def createDataset(inputPath, gtFile, outputPath, checkValid=True):
 	nSamples = len(datalist)
 	for i in range(nSamples):
 		try:
-			imagePath, label,_= datalist[i].split(', ')
+			imagePath, label = datalist[i].split('\t')
 			paths.add(imagePath)
 			imagePath = os.path.join(inputPath, imagePath)
 			
@@ -68,11 +68,19 @@ def createDataset(inputPath, gtFile, outputPath, checkValid=True):
 			with open(imagePath, 'rb') as f:
 				imageBin = f.read()
 			
+			if imageBin is None:
+				continue
+				
+			if len(label) > 30:
+				print('word length greater than 30')
+				continue
 			if checkValid:
 				try:
 					if not checkImageIsValid(imageBin):
 						print('%s is not a valid image' % imagePath)
 						continue
+					
+						
 				except:
 					print('error occured', i)
 					with open(outputPath + '/error_image_log.txt', 'a') as log:

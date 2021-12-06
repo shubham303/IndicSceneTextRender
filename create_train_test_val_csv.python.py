@@ -10,8 +10,6 @@ def write_to_file(data, file,fontlist):
 		font = line[2]
 		if not isfontValid(fontlist, font):
 			continue
-		
-		line[0] = 	"17"+line[0][1:]
 		line = ", ".join(map(str, line))
 		file.write(line)
 		file.write("\n")

@@ -72,7 +72,6 @@ trimOptions = {0, 1}
 fontStretchOptions={ 'semicondensed', 'normal', 'semiexpanded',  'normal', 'normal', 'normal','normal','normal','normal', 'normal','normal','normal','semicondensed','semicondensed','semicondensed','semicondensed','semicondensed', 'semiexpanded', 'semiexpanded', 'semiexpanded', 'semiexpanded','normal', 'normal', 'normal','normal','normal','normal', 'normal','normal','normal'}
 shadowBooleanOptions={0,0,0,0,0,0,0,0,0}
 perspectiveBooleanOptions = {0, 0, 0, 1, 1, 1, 1}
-
 shadowWidthOptions={'0','0','0','2','3','4'}
 shadowSigmaOptions = {'1', '3'}
 shadowOpacityOptions = {'100', '100', '100', '100', '90', '80', '70'}
