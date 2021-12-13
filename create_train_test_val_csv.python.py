@@ -23,7 +23,7 @@ def isfontValid(fontList, font):
 			return True
 	return False
 
-def create_train_test_val_csv(filename,lang):
+def create_train_test_val_csv(filename, lang, output_path):
 	fontlist = open("fontlists/{}.txt".format(lang), "r").readlines()
 	
 	lines = open(filename).readlines()
@@ -40,11 +40,11 @@ def create_train_test_val_csv(filename,lang):
 	test = lines[train_length: train_length+test_length]
 	val = lines[train_length + test_length:]
 	
-	train_out = open(os.path.join("train.tsv"), "w")
-	test_out = open(os.path.join("test.tsv"), "w")
-	val_out = open(os.path.join("val.tsv"), "w")
+	train_out = open(os.path.join(output_path, "train.tsv"), "w")
+	test_out = open(os.path.join(output_path, "test.tsv"), "w")
+	val_out = open(os.path.join(output_path, "val.tsv"), "w")
 	
-	write_to_file(train, train_out,fontlist)
+	write_to_file(train, train_out, fontlist)
 	write_to_file(test, test_out, fontlist)
 	write_to_file(val, val_out, fontlist)
 
