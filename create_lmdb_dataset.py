@@ -30,7 +30,6 @@ def writeCache(env, cache):
 		for k, v in cache.items():
 			txn.put(k, v)
 
-
 def createDataset(inputPath, gtFile, outputPath, checkValid=False):
 	"""
 	Create LMDB dataset for training and evaluation.

@@ -29,29 +29,40 @@ import codecs
 import glob
 import os
 import random
-import sys
 
 import PIL
 from PIL import Image
+import argparse
+
+parser = argparse.ArgumentParser(description="generation recognition dataset")
+parser.add_argument('--vocab_file', type = str, default=None)
+parser.add_argument('--fontlist_file', type = str, default=None)
+parser.add_argument('--output_dir', type = str, default=None)
+parser.add_argument('--lang', type = str, default=None)
+parser.add_argument('--iteration', type = str, default=None)
+parser.add_argument('--image_dir', type = str, default=None)
+
+
+args = parser.parse_args()
 
 random.seed()
 # language='Arabic'
 # process='intialRender'
 # iteration="One"
 # get the list of unique font family Names
-with open(sys.argv[2]) as f:
+with open(args.fontlist_file) as f:
 	fontsList = f.read().splitlines()
 print('number of unique fonts being considered= ', len(fontsList))
 # a set of images , whose random crops can be used as background for the rendered word images. We used Validation set of Places dataset for this
 # replace the below path with your location of images
-PlacesImList = glob.glob(sys.argv[6])
+PlacesImList = glob.glob(args.image_dir)
 
-writeDirParent = sys.argv[3] + sys.argv[5] + '/'
-xmlFileName = sys.argv[3] + sys.argv[4] + '_DetailedAnnotation.csv'
+writeDirParent = args.output_dir + args.iteration + '/'
+xmlFileName = args.output_dir + args.lang + '_DetailedAnnotation.csv'
 
 from sortedcontainers import SortedList
 # a flist of words separated by newline
-vocabFile = codecs.open(sys.argv[1], 'r', encoding='utf8')
+vocabFile = codecs.open(args.vocab_file, 'r', encoding='utf8')
 myfile = codecs.open(xmlFileName, 'a', encoding='utf8')
 words = vocabFile.read().split()
 words = set(words)
@@ -79,12 +90,11 @@ shadowWidthSignOptions = {'+', '-'}
 # outputfile = open('render_commands_'+language+'_'+process+'_'+iteration+'.sh','w')
 # gtfile = open('ocr_gt.txt','w')
 numWords = len(words)
-words.sort()
 print('number of words in the vocab= ', numWords)
 thousand = int(0 / 1000)
 
 #meta data file stores the index of last rendered word.
-meta_file_name= sys.argv[3] + sys.argv[4] +"meta.txt"
+meta_file_name= args.output_dir + args.lang +"meta.txt"
 if not os.path.isfile(meta_file_name):
 	meta_file= open(meta_file_name,"w+" )
 	meta_file.write(str(0))
@@ -283,7 +293,7 @@ for i in range(resume_word_index, numWords):
 		### WRITING THE GT ALONG WITH RENDERING DETAILS TO a csv ###
 		# print command.encode('utf-8')
 		# print command_compose
-		myfile.write(sys.argv[5] + '/' + str(thousand) + '/' + str(i) + '.jpeg, ')
+		myfile.write(args.iteration + '/' + str(thousand) + '/' + str(i) + '.jpeg, ')
 		myfile.write(words[i] + ', ')
 		myfile.write(str(i) + ', ')
 		myfile.write(fontName + ', ')
