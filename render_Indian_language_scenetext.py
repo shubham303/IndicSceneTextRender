@@ -55,7 +55,7 @@ with open(args.fontlist_file) as f:
 print('number of unique fonts being considered= ', len(fontsList))
 # a set of images , whose random crops can be used as background for the rendered word images. We used Validation set of Places dataset for this
 # replace the below path with your location of images
-PlacesImList = glob.glob(args.image_dir)
+PlacesImList = glob.glob(args.image_dir+"*.jpg")
 
 writeDirParent = args.output_dir + args.iteration + '/'
 xmlFileName = args.output_dir + args.lang + '_DetailedAnnotation.csv'
