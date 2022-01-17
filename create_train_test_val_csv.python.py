@@ -5,7 +5,9 @@ import fire
 
 def write_to_file(data, file,fontlist):
 	
-	for line in data:
+	for i ,line in enumerate(data):
+		if i%1000==0:
+			print("{} completed".format(i))
 		del line[2]
 		font = line[2]
 		if not isfontValid(fontlist, font):
@@ -23,7 +25,7 @@ def isfontValid(fontList, font):
 			return True
 	return False
 
-def create_train_test_val_csv(filename, lang, output_path):
+def create_train_test_val_csv(filename, lang, output_path="./"):
 	fontlist = open("fontlists/{}.txt".format(lang), "r").readlines()
 	
 	lines = open(filename).readlines()
