@@ -105,5 +105,6 @@ def createDataset(inputPath, gtFile, outputPath, checkValid=False):
 
 	print(len(paths))
 	print(x)
+	
 if __name__ == '__main__':
 	fire.Fire(createDataset)
